@@ -1,0 +1,5009 @@
+{
+    "actions": [
+        {
+            "name": "Share-DUPH",
+            "price": 10.01,
+            "profit": 12.25
+        },
+        {
+            "name": "Share-GTAN",
+            "price": 26.04,
+            "profit": 38.06
+        },
+        {
+            "name": "Share-USUF",
+            "price": 9.25,
+            "profit": 27.69
+        },
+        {
+            "name": "Share-CFOZ",
+            "price": 10.64,
+            "profit": 38.21
+        },
+        {
+            "name": "Share-QLRX",
+            "price": 15.72,
+            "profit": 27.47
+        },
+        {
+            "name": "Share-XJDT",
+            "price": 0.0,
+            "profit": 37.11
+        },
+        {
+            "name": "Share-HKFP",
+            "price": 23.97,
+            "profit": 19.66
+        },
+        {
+            "name": "Share-PPPH",
+            "price": 24.06,
+            "profit": 38.2
+        },
+        {
+            "name": "Share-HLJY",
+            "price": 26.98,
+            "profit": 5.54
+        },
+        {
+            "name": "Share-YKBD",
+            "price": 0.0,
+            "profit": 22.75
+        },
+        {
+            "name": "Share-CTCR",
+            "price": 16.6,
+            "profit": 12.4
+        },
+        {
+            "name": "Share-LMJG",
+            "price": 16.54,
+            "profit": 29.82
+        },
+        {
+            "name": "Share-IGUH",
+            "price": 19.13,
+            "profit": 14.3
+        },
+        {
+            "name": "Share-VIRY",
+            "price": 31.94,
+            "profit": 1.84
+        },
+        {
+            "name": "Share-PYDS",
+            "price": 34.9,
+            "profit": 30.69
+        },
+        {
+            "name": "Share-SOOE",
+            "price": 23.09,
+            "profit": 38.04
+        },
+        {
+            "name": "Share-NOIQ",
+            "price": 24.08,
+            "profit": 36.81
+        },
+        {
+            "name": "Share-QUXB",
+            "price": 36.97,
+            "profit": 36.08
+        },
+        {
+            "name": "Share-SJNY",
+            "price": 24.61,
+            "profit": 17.43
+        },
+        {
+            "name": "Share-CQYF",
+            "price": 26.26,
+            "profit": 0.65
+        },
+        {
+            "name": "Share-XJSP",
+            "price": 42.08,
+            "profit": 3.03
+        },
+        {
+            "name": "Share-YNWM",
+            "price": 9.94,
+            "profit": 28.25
+        },
+        {
+            "name": "Share-KTGN",
+            "price": 6.41,
+            "profit": 25.37
+        },
+        {
+            "name": "Share-KWZO",
+            "price": 41.42,
+            "profit": 1.19
+        },
+        {
+            "name": "Share-BVMS",
+            "price": 27.84,
+            "profit": 4.51
+        },
+        {
+            "name": "Share-DAPD",
+            "price": 8.47,
+            "profit": 6.66
+        },
+        {
+            "name": "Share-TVRM",
+            "price": 31.06,
+            "profit": 6.63
+        },
+        {
+            "name": "Share-EIYB",
+            "price": 11.49,
+            "profit": 37.74
+        },
+        {
+            "name": "Share-NNGR",
+            "price": 43.15,
+            "profit": 15.09
+        },
+        {
+            "name": "Share-XWRU",
+            "price": 28.6,
+            "profit": 23.37
+        },
+        {
+            "name": "Share-YEZB",
+            "price": 17.15,
+            "profit": 30.28
+        },
+        {
+            "name": "Share-AQHE",
+            "price": 7.8,
+            "profit": 5.36
+        },
+        {
+            "name": "Share-IJAW",
+            "price": 0.0,
+            "profit": 30.69
+        },
+        {
+            "name": "Share-SEBO",
+            "price": 35.85,
+            "profit": 14.79
+        },
+        {
+            "name": "Share-MWTE",
+            "price": 0.0,
+            "profit": 18.37
+        },
+        {
+            "name": "Share-ZWIY",
+            "price": 18.36,
+            "profit": 11.91
+        },
+        {
+            "name": "Share-BAOJ",
+            "price": 38.2,
+            "profit": 28.36
+        },
+        {
+            "name": "Share-GKWN",
+            "price": 16.01,
+            "profit": 33.52
+        },
+        {
+            "name": "Share-UZPA",
+            "price": 27.49,
+            "profit": 4.4
+        },
+        {
+            "name": "Share-HODN",
+            "price": 34.8,
+            "profit": 7.29
+        },
+        {
+            "name": "Share-HRDA",
+            "price": 27.45,
+            "profit": 33.65
+        },
+        {
+            "name": "Share-ZRWP",
+            "price": 25.99,
+            "profit": 6.72
+        },
+        {
+            "name": "Share-JWSN",
+            "price": 23.24,
+            "profit": 7.28
+        },
+        {
+            "name": "Share-RLHB",
+            "price": 38.23,
+            "profit": 4.46
+        },
+        {
+            "name": "Share-FFBY",
+            "price": 22.05,
+            "profit": 11.41
+        },
+        {
+            "name": "Share-FTYF",
+            "price": 9.56,
+            "profit": 31.54
+        },
+        {
+            "name": "Share-KNZG",
+            "price": 14.86,
+            "profit": 13.8
+        },
+        {
+            "name": "Share-QPSA",
+            "price": 28.95,
+            "profit": 29.9
+        },
+        {
+            "name": "Share-JMGY",
+            "price": 28.8,
+            "profit": 3.11
+        },
+        {
+            "name": "Share-KWDY",
+            "price": 26.04,
+            "profit": 37.89
+        },
+        {
+            "name": "Share-OWCV",
+            "price": 30.21,
+            "profit": 0.74
+        },
+        {
+            "name": "Share-HUIT",
+            "price": 36.37,
+            "profit": 17.87
+        },
+        {
+            "name": "Share-MSKF",
+            "price": 19.76,
+            "profit": 3.64
+        },
+        {
+            "name": "Share-GFJZ",
+            "price": 34.57,
+            "profit": 26.08
+        },
+        {
+            "name": "Share-IKZL",
+            "price": 41.63,
+            "profit": 18.98
+        },
+        {
+            "name": "Share-BLKR",
+            "price": 45.91,
+            "profit": 15.19
+        },
+        {
+            "name": "Share-INSV",
+            "price": 32.9,
+            "profit": 34.47
+        },
+        {
+            "name": "Share-VBXG",
+            "price": 30.23,
+            "profit": 35.48
+        },
+        {
+            "name": "Share-LTLT",
+            "price": 28.67,
+            "profit": 16.65
+        },
+        {
+            "name": "Share-JTQE",
+            "price": 33.07,
+            "profit": 30.91
+        },
+        {
+            "name": "Share-OHTK",
+            "price": 7.76,
+            "profit": 15.36
+        },
+        {
+            "name": "Share-XBOW",
+            "price": 30.98,
+            "profit": 8.13
+        },
+        {
+            "name": "Share-PKFS",
+            "price": 19.16,
+            "profit": 25.16
+        },
+        {
+            "name": "Share-BQZO",
+            "price": 25.92,
+            "profit": 0.02
+        },
+        {
+            "name": "Share-MCUJ",
+            "price": 12.51,
+            "profit": 3.65
+        },
+        {
+            "name": "Share-TTXF",
+            "price": 20.12,
+            "profit": 37.0
+        },
+        {
+            "name": "Share-CZZS",
+            "price": 27.26,
+            "profit": 31.2
+        },
+        {
+            "name": "Share-BGRQ",
+            "price": 25.39,
+            "profit": 11.63
+        },
+        {
+            "name": "Share-SVAM",
+            "price": 18.37,
+            "profit": 18.91
+        },
+        {
+            "name": "Share-IYAT",
+            "price": 14.95,
+            "profit": 19.52
+        },
+        {
+            "name": "Share-NNSM",
+            "price": 12.03,
+            "profit": 32.13
+        },
+        {
+            "name": "Share-VLWV",
+            "price": 3.7,
+            "profit": 3.85
+        },
+        {
+            "name": "Share-XSSB",
+            "price": 22.12,
+            "profit": 38.25
+        },
+        {
+            "name": "Share-CIIX",
+            "price": 1.41,
+            "profit": 18.22
+        },
+        {
+            "name": "Share-SJAK",
+            "price": 33.2,
+            "profit": 12.93
+        },
+        {
+            "name": "Share-CEBR",
+            "price": 45.89,
+            "profit": 0.04
+        },
+        {
+            "name": "Share-CLIJ",
+            "price": 33.15,
+            "profit": 23.23
+        },
+        {
+            "name": "Share-XRVK",
+            "price": 47.49,
+            "profit": 2.85
+        },
+        {
+            "name": "Share-OOUK",
+            "price": 36.53,
+            "profit": 12.05
+        },
+        {
+            "name": "Share-ZBMZ",
+            "price": 31.3,
+            "profit": 34.14
+        },
+        {
+            "name": "Share-KVDA",
+            "price": 25.11,
+            "profit": 13.91
+        },
+        {
+            "name": "Share-PARA",
+            "price": 14.33,
+            "profit": 1.54
+        },
+        {
+            "name": "Share-TNBA",
+            "price": 23.58,
+            "profit": 35.62
+        },
+        {
+            "name": "Share-CSQA",
+            "price": 2.71,
+            "profit": 8.5
+        },
+        {
+            "name": "Share-HKEJ",
+            "price": 15.19,
+            "profit": 16.62
+        },
+        {
+            "name": "Share-AOLT",
+            "price": 48.53,
+            "profit": 36.44
+        },
+        {
+            "name": "Share-YRVP",
+            "price": 21.91,
+            "profit": 10.98
+        },
+        {
+            "name": "Share-IPGW",
+            "price": 17.24,
+            "profit": 15.29
+        },
+        {
+            "name": "Share-IYEW",
+            "price": 38.32,
+            "profit": 36.79
+        },
+        {
+            "name": "Share-WZHT",
+            "price": 36.02,
+            "profit": 24.81
+        },
+        {
+            "name": "Share-FAHD",
+            "price": 47.39,
+            "profit": 4.52
+        },
+        {
+            "name": "Share-EFHD",
+            "price": 25.31,
+            "profit": 19.81
+        },
+        {
+            "name": "Share-IQHP",
+            "price": 41.0,
+            "profit": 32.06
+        },
+        {
+            "name": "Share-XOQL",
+            "price": 18.72,
+            "profit": 15.03
+        },
+        {
+            "name": "Share-CZAX",
+            "price": 38.05,
+            "profit": 30.64
+        },
+        {
+            "name": "Share-UVZJ",
+            "price": 0.0,
+            "profit": 26.26
+        },
+        {
+            "name": "Share-RUFN",
+            "price": 10.88,
+            "profit": 37.03
+        },
+        {
+            "name": "Share-ZIGX",
+            "price": 41.52,
+            "profit": 13.39
+        },
+        {
+            "name": "Share-KMOP",
+            "price": 25.25,
+            "profit": 33.24
+        },
+        {
+            "name": "Share-VTYP",
+            "price": 13.68,
+            "profit": 31.22
+        },
+        {
+            "name": "Share-WENI",
+            "price": 27.11,
+            "profit": 34.87
+        },
+        {
+            "name": "Share-YEYF",
+            "price": 49.1,
+            "profit": 24.88
+        },
+        {
+            "name": "Share-EKHU",
+            "price": 47.13,
+            "profit": 35.03
+        },
+        {
+            "name": "Share-JPLU",
+            "price": 10.72,
+            "profit": 29.16
+        },
+        {
+            "name": "Share-CVKQ",
+            "price": 27.89,
+            "profit": 6.06
+        },
+        {
+            "name": "Share-TFNF",
+            "price": 38.63,
+            "profit": 33.34
+        },
+        {
+            "name": "Share-LRYZ",
+            "price": 32.77,
+            "profit": 38.16
+        },
+        {
+            "name": "Share-SUDI",
+            "price": 38.72,
+            "profit": 25.01
+        },
+        {
+            "name": "Share-GFBR",
+            "price": 22.19,
+            "profit": 21.05
+        },
+        {
+            "name": "Share-ELHS",
+            "price": 36.47,
+            "profit": 1.05
+        },
+        {
+            "name": "Share-BOET",
+            "price": 0.0,
+            "profit": 37.01
+        },
+        {
+            "name": "Share-PFOA",
+            "price": 8.54,
+            "profit": 19.08
+        },
+        {
+            "name": "Share-HRKX",
+            "price": 14.09,
+            "profit": 33.42
+        },
+        {
+            "name": "Share-DEMQ",
+            "price": 19.25,
+            "profit": 35.29
+        },
+        {
+            "name": "Share-MONJ",
+            "price": 10.67,
+            "profit": 7.47
+        },
+        {
+            "name": "Share-XQOA",
+            "price": 18.65,
+            "profit": 2.68
+        },
+        {
+            "name": "Share-RZCS",
+            "price": 36.45,
+            "profit": 12.78
+        },
+        {
+            "name": "Share-DAPQ",
+            "price": 21.36,
+            "profit": 19.57
+        },
+        {
+            "name": "Share-OUGA",
+            "price": 8.99,
+            "profit": 7.35
+        },
+        {
+            "name": "Share-BCVC",
+            "price": 20.69,
+            "profit": 33.51
+        },
+        {
+            "name": "Share-BHXC",
+            "price": 41.14,
+            "profit": 19.5
+        },
+        {
+            "name": "Share-NTBS",
+            "price": 24.42,
+            "profit": 10.33
+        },
+        {
+            "name": "Share-WVBR",
+            "price": 25.11,
+            "profit": 2.9
+        },
+        {
+            "name": "Share-GCEX",
+            "price": 0.0,
+            "profit": 34.72
+        },
+        {
+            "name": "Share-RBJP",
+            "price": 12.54,
+            "profit": 11.82
+        },
+        {
+            "name": "Share-QNMW",
+            "price": 10.16,
+            "profit": 11.13
+        },
+        {
+            "name": "Share-FLLX",
+            "price": 2.35,
+            "profit": 4.74
+        },
+        {
+            "name": "Share-MHMX",
+            "price": 19.48,
+            "profit": 26.47
+        },
+        {
+            "name": "Share-DAWU",
+            "price": 7.4,
+            "profit": 5.24
+        },
+        {
+            "name": "Share-ETOR",
+            "price": 12.33,
+            "profit": 7.35
+        },
+        {
+            "name": "Share-GVVO",
+            "price": 2.22,
+            "profit": 28.52
+        },
+        {
+            "name": "Share-SPAR",
+            "price": 42.66,
+            "profit": 10.72
+        },
+        {
+            "name": "Share-DWQL",
+            "price": 0.0,
+            "profit": 19.69
+        },
+        {
+            "name": "Share-IFCP",
+            "price": 29.23,
+            "profit": 39.88
+        },
+        {
+            "name": "Share-WYAL",
+            "price": 42.12,
+            "profit": 15.21
+        },
+        {
+            "name": "Share-OFZD",
+            "price": 31.48,
+            "profit": 13.78
+        },
+        {
+            "name": "Share-KLCJ",
+            "price": 13.75,
+            "profit": 18.04
+        },
+        {
+            "name": "Share-JNUW",
+            "price": 30.61,
+            "profit": 17.58
+        },
+        {
+            "name": "Share-SHFZ",
+            "price": 32.79,
+            "profit": 27.62
+        },
+        {
+            "name": "Share-CYLT",
+            "price": 33.73,
+            "profit": 24.2
+        },
+        {
+            "name": "Share-JHLP",
+            "price": 42.97,
+            "profit": 37.12
+        },
+        {
+            "name": "Share-DLGZ",
+            "price": 34.71,
+            "profit": 33.88
+        },
+        {
+            "name": "Share-COUC",
+            "price": 20.99,
+            "profit": 5.93
+        },
+        {
+            "name": "Share-ATAE",
+            "price": 16.58,
+            "profit": 24.47
+        },
+        {
+            "name": "Share-FTJN",
+            "price": 27.52,
+            "profit": 16.79
+        },
+        {
+            "name": "Share-WTPW",
+            "price": 19.89,
+            "profit": 25.23
+        },
+        {
+            "name": "Share-HITN",
+            "price": 0.67,
+            "profit": 33.49
+        },
+        {
+            "name": "Share-ADLV",
+            "price": 18.9,
+            "profit": 4.72
+        },
+        {
+            "name": "Share-CWIL",
+            "price": 46.2,
+            "profit": 1.19
+        },
+        {
+            "name": "Share-VBQT",
+            "price": 25.73,
+            "profit": 35.61
+        },
+        {
+            "name": "Share-XQQA",
+            "price": 26.78,
+            "profit": 9.35
+        },
+        {
+            "name": "Share-QSOQ",
+            "price": 30.15,
+            "profit": 0.71
+        },
+        {
+            "name": "Share-WIWE",
+            "price": 10.65,
+            "profit": 8.88
+        },
+        {
+            "name": "Share-FRBU",
+            "price": 30.13,
+            "profit": 9.56
+        },
+        {
+            "name": "Share-IYKD",
+            "price": 1.08,
+            "profit": 13.02
+        },
+        {
+            "name": "Share-EPCT",
+            "price": 3.91,
+            "profit": 15.96
+        },
+        {
+            "name": "Share-JIZL",
+            "price": 48.75,
+            "profit": 4.23
+        },
+        {
+            "name": "Share-ACQS",
+            "price": 32.62,
+            "profit": 1.61
+        },
+        {
+            "name": "Share-YUTW",
+            "price": 16.28,
+            "profit": 35.71
+        },
+        {
+            "name": "Share-YHEL",
+            "price": 2.51,
+            "profit": 10.08
+        },
+        {
+            "name": "Share-HPSH",
+            "price": 19.77,
+            "profit": 33.17
+        },
+        {
+            "name": "Share-NVXL",
+            "price": 25.66,
+            "profit": 19.29
+        },
+        {
+            "name": "Share-ZFQR",
+            "price": 21.74,
+            "profit": 38.74
+        },
+        {
+            "name": "Share-GYNX",
+            "price": 30.96,
+            "profit": 38.27
+        },
+        {
+            "name": "Share-XXLC",
+            "price": 45.12,
+            "profit": 14.14
+        },
+        {
+            "name": "Share-TLJJ",
+            "price": 28.65,
+            "profit": 13.75
+        },
+        {
+            "name": "Share-RUPP",
+            "price": 40.98,
+            "profit": 5.4
+        },
+        {
+            "name": "Share-SXZH",
+            "price": 39.35,
+            "profit": 8.81
+        },
+        {
+            "name": "Share-DSHU",
+            "price": 23.12,
+            "profit": 29.08
+        },
+        {
+            "name": "Share-OLUI",
+            "price": 30.68,
+            "profit": 27.29
+        },
+        {
+            "name": "Share-FXZS",
+            "price": 0.0,
+            "profit": 30.03
+        },
+        {
+            "name": "Share-SFMP",
+            "price": 9.48,
+            "profit": 17.94
+        },
+        {
+            "name": "Share-VVDF",
+            "price": 5.12,
+            "profit": 25.56
+        },
+        {
+            "name": "Share-YVUQ",
+            "price": 39.98,
+            "profit": 18.8
+        },
+        {
+            "name": "Share-FIWE",
+            "price": 42.56,
+            "profit": 9.34
+        },
+        {
+            "name": "Share-NKEK",
+            "price": 19.01,
+            "profit": 25.8
+        },
+        {
+            "name": "Share-QEDS",
+            "price": 3.78,
+            "profit": 13.74
+        },
+        {
+            "name": "Share-SWES",
+            "price": 35.4,
+            "profit": 28.86
+        },
+        {
+            "name": "Share-XMLZ",
+            "price": 29.5,
+            "profit": 24.46
+        },
+        {
+            "name": "Share-DRXI",
+            "price": 37.42,
+            "profit": 38.05
+        },
+        {
+            "name": "Share-BKOT",
+            "price": 22.9,
+            "profit": 29.4
+        },
+        {
+            "name": "Share-QDFN",
+            "price": 4.26,
+            "profit": 20.6
+        },
+        {
+            "name": "Share-NLNW",
+            "price": 8.95,
+            "profit": 8.85
+        },
+        {
+            "name": "Share-MKTB",
+            "price": 33.42,
+            "profit": 17.53
+        },
+        {
+            "name": "Share-FEMI",
+            "price": 15.24,
+            "profit": 36.37
+        },
+        {
+            "name": "Share-ZQDO",
+            "price": 34.64,
+            "profit": 10.06
+        },
+        {
+            "name": "Share-CVOW",
+            "price": 0.0,
+            "profit": 6.42
+        },
+        {
+            "name": "Share-GBMB",
+            "price": 41.91,
+            "profit": 11.82
+        },
+        {
+            "name": "Share-ZUWA",
+            "price": 17.84,
+            "profit": 32.2
+        },
+        {
+            "name": "Share-VUOS",
+            "price": 20.14,
+            "profit": 33.88
+        },
+        {
+            "name": "Share-RTTA",
+            "price": 27.78,
+            "profit": 3.26
+        },
+        {
+            "name": "Share-SQQK",
+            "price": 22.58,
+            "profit": 32.51
+        },
+        {
+            "name": "Share-GROK",
+            "price": 28.16,
+            "profit": 8.05
+        },
+        {
+            "name": "Share-RWWJ",
+            "price": 46.3,
+            "profit": 0.0
+        },
+        {
+            "name": "Share-YPRZ",
+            "price": 41.82,
+            "profit": 18.21
+        },
+        {
+            "name": "Share-EDPH",
+            "price": 22.43,
+            "profit": 9.4
+        },
+        {
+            "name": "Share-LJDU",
+            "price": 39.86,
+            "profit": 37.22
+        },
+        {
+            "name": "Share-JKRC",
+            "price": 18.58,
+            "profit": 16.25
+        },
+        {
+            "name": "Share-QCRM",
+            "price": 26.91,
+            "profit": 16.97
+        },
+        {
+            "name": "Share-PKXQ",
+            "price": 41.39,
+            "profit": 9.75
+        },
+        {
+            "name": "Share-DBMG",
+            "price": 37.07,
+            "profit": 38.12
+        },
+        {
+            "name": "Share-DFKO",
+            "price": 29.28,
+            "profit": 24.73
+        },
+        {
+            "name": "Share-LOJD",
+            "price": 22.47,
+            "profit": 19.19
+        },
+        {
+            "name": "Share-SFMQ",
+            "price": 39.61,
+            "profit": 5.27
+        },
+        {
+            "name": "Share-TMYW",
+            "price": 22.41,
+            "profit": 15.97
+        },
+        {
+            "name": "Share-WPYY",
+            "price": 42.88,
+            "profit": 13.95
+        },
+        {
+            "name": "Share-EDBI",
+            "price": 22.92,
+            "profit": 32.72
+        },
+        {
+            "name": "Share-WJZQ",
+            "price": 16.28,
+            "profit": 1.25
+        },
+        {
+            "name": "Share-MGCH",
+            "price": 25.72,
+            "profit": 22.28
+        },
+        {
+            "name": "Share-GFKM",
+            "price": 24.37,
+            "profit": 36.16
+        },
+        {
+            "name": "Share-JLNT",
+            "price": 19.74,
+            "profit": 9.74
+        },
+        {
+            "name": "Share-ZIZN",
+            "price": 40.69,
+            "profit": 17.32
+        },
+        {
+            "name": "Share-FVVN",
+            "price": 33.3,
+            "profit": 4.3
+        },
+        {
+            "name": "Share-TTVT",
+            "price": 35.43,
+            "profit": 25.51
+        },
+        {
+            "name": "Share-EMOV",
+            "price": 8.89,
+            "profit": 39.52
+        },
+        {
+            "name": "Share-ZWPI",
+            "price": 21.5,
+            "profit": 39.02
+        },
+        {
+            "name": "Share-KKAD",
+            "price": 14.66,
+            "profit": 32.19
+        },
+        {
+            "name": "Share-GMPX",
+            "price": 30.86,
+            "profit": 7.59
+        },
+        {
+            "name": "Share-JHKR",
+            "price": 18.3,
+            "profit": 25.25
+        },
+        {
+            "name": "Share-QIGP",
+            "price": 35.59,
+            "profit": 22.63
+        },
+        {
+            "name": "Share-RUMG",
+            "price": 34.34,
+            "profit": 7.42
+        },
+        {
+            "name": "Share-EPWT",
+            "price": 9.54,
+            "profit": 8.07
+        },
+        {
+            "name": "Share-FJIK",
+            "price": 28.32,
+            "profit": 34.49
+        },
+        {
+            "name": "Share-ETNQ",
+            "price": 48.78,
+            "profit": 11.38
+        },
+        {
+            "name": "Share-OZCM",
+            "price": 36.69,
+            "profit": 30.53
+        },
+        {
+            "name": "Share-KZLV",
+            "price": 18.43,
+            "profit": 4.01
+        },
+        {
+            "name": "Share-ZLGB",
+            "price": 39.41,
+            "profit": 36.67
+        },
+        {
+            "name": "Share-ZSPZ",
+            "price": 22.3,
+            "profit": 18.9
+        },
+        {
+            "name": "Share-RQNB",
+            "price": 20.12,
+            "profit": 26.73
+        },
+        {
+            "name": "Share-UNOG",
+            "price": 43.84,
+            "profit": 18.65
+        },
+        {
+            "name": "Share-GZHU",
+            "price": 33.02,
+            "profit": 24.56
+        },
+        {
+            "name": "Share-QPFG",
+            "price": 9.52,
+            "profit": 32.39
+        },
+        {
+            "name": "Share-IVRI",
+            "price": 27.35,
+            "profit": 38.76
+        },
+        {
+            "name": "Share-GHNY",
+            "price": 28.45,
+            "profit": 17.58
+        },
+        {
+            "name": "Share-XABA",
+            "price": 0.0,
+            "profit": 27.91
+        },
+        {
+            "name": "Share-MEPT",
+            "price": 37.14,
+            "profit": 30.4
+        },
+        {
+            "name": "Share-OTBX",
+            "price": 16.84,
+            "profit": 5.86
+        },
+        {
+            "name": "Share-ODFR",
+            "price": 30.14,
+            "profit": 11.81
+        },
+        {
+            "name": "Share-QPRB",
+            "price": 32.06,
+            "profit": 5.19
+        },
+        {
+            "name": "Share-QAIJ",
+            "price": 31.42,
+            "profit": 33.11
+        },
+        {
+            "name": "Share-OKTW",
+            "price": 24.15,
+            "profit": 24.26
+        },
+        {
+            "name": "Share-KYHO",
+            "price": 37.05,
+            "profit": 29.07
+        },
+        {
+            "name": "Share-ONTS",
+            "price": 14.17,
+            "profit": 15.48
+        },
+        {
+            "name": "Share-JWXV",
+            "price": 47.28,
+            "profit": 7.33
+        },
+        {
+            "name": "Share-TJBP",
+            "price": 28.5,
+            "profit": 28.54
+        },
+        {
+            "name": "Share-YHLS",
+            "price": 6.11,
+            "profit": 5.79
+        },
+        {
+            "name": "Share-ZNIY",
+            "price": 20.38,
+            "profit": 24.97
+        },
+        {
+            "name": "Share-XPZF",
+            "price": 35.01,
+            "profit": 33.65
+        },
+        {
+            "name": "Share-ODXT",
+            "price": 12.75,
+            "profit": 18.69
+        },
+        {
+            "name": "Share-VQHA",
+            "price": 6.93,
+            "profit": 14.16
+        },
+        {
+            "name": "Share-IDWW",
+            "price": 26.58,
+            "profit": 22.0
+        },
+        {
+            "name": "Share-TVOJ",
+            "price": 9.39,
+            "profit": 23.34
+        },
+        {
+            "name": "Share-NMYP",
+            "price": 0.0,
+            "profit": 11.43
+        },
+        {
+            "name": "Share-VNQN",
+            "price": 1.17,
+            "profit": 18.51
+        },
+        {
+            "name": "Share-FVTC",
+            "price": 25.28,
+            "profit": 23.61
+        },
+        {
+            "name": "Share-RSQE",
+            "price": 45.64,
+            "profit": 26.22
+        },
+        {
+            "name": "Share-TCMQ",
+            "price": 15.36,
+            "profit": 11.69
+        },
+        {
+            "name": "Share-UPTV",
+            "price": 7.59,
+            "profit": 20.07
+        },
+        {
+            "name": "Share-LSFE",
+            "price": 17.51,
+            "profit": 31.47
+        },
+        {
+            "name": "Share-TTLC",
+            "price": 30.69,
+            "profit": 38.68
+        },
+        {
+            "name": "Share-WMOU",
+            "price": 29.0,
+            "profit": 34.42
+        },
+        {
+            "name": "Share-QJZG",
+            "price": 34.68,
+            "profit": 19.21
+        },
+        {
+            "name": "Share-PSZU",
+            "price": 25.8,
+            "profit": 13.44
+        },
+        {
+            "name": "Share-GCAZ",
+            "price": 48.58,
+            "profit": 3.23
+        },
+        {
+            "name": "Share-KZBL",
+            "price": 28.99,
+            "profit": 39.14
+        },
+        {
+            "name": "Share-ZTDP",
+            "price": 33.38,
+            "profit": 6.81
+        },
+        {
+            "name": "Share-XBIG",
+            "price": 34.11,
+            "profit": 0.37
+        },
+        {
+            "name": "Share-MXMO",
+            "price": 23.99,
+            "profit": 15.87
+        },
+        {
+            "name": "Share-OMOF",
+            "price": 30.8,
+            "profit": 18.36
+        },
+        {
+            "name": "Share-NWSG",
+            "price": 38.03,
+            "profit": 15.32
+        },
+        {
+            "name": "Share-LGSU",
+            "price": 46.79,
+            "profit": 18.58
+        },
+        {
+            "name": "Share-GLFC",
+            "price": 16.63,
+            "profit": 4.45
+        },
+        {
+            "name": "Share-PAXZ",
+            "price": 7.22,
+            "profit": 0.82
+        },
+        {
+            "name": "Share-QSPX",
+            "price": 0.6,
+            "profit": 35.15
+        },
+        {
+            "name": "Share-ZGFE",
+            "price": 20.76,
+            "profit": 22.46
+        },
+        {
+            "name": "Share-WCNO",
+            "price": 17.13,
+            "profit": 32.27
+        },
+        {
+            "name": "Share-BHYK",
+            "price": 25.29,
+            "profit": 17.91
+        },
+        {
+            "name": "Share-VGFO",
+            "price": 17.83,
+            "profit": 31.39
+        },
+        {
+            "name": "Share-FUUQ",
+            "price": 32.33,
+            "profit": 3.69
+        },
+        {
+            "name": "Share-VEEM",
+            "price": 9.47,
+            "profit": 15.79
+        },
+        {
+            "name": "Share-YVIJ",
+            "price": 3.94,
+            "profit": 29.38
+        },
+        {
+            "name": "Share-ZEPQ",
+            "price": 29.27,
+            "profit": 30.6
+        },
+        {
+            "name": "Share-EINI",
+            "price": 20.13,
+            "profit": 13.01
+        },
+        {
+            "name": "Share-LRBZ",
+            "price": 32.9,
+            "profit": 39.95
+        },
+        {
+            "name": "Share-NYHH",
+            "price": 12.51,
+            "profit": 6.57
+        },
+        {
+            "name": "Share-CBNP",
+            "price": 37.33,
+            "profit": 11.56
+        },
+        {
+            "name": "Share-JXTU",
+            "price": 0.0,
+            "profit": 14.86
+        },
+        {
+            "name": "Share-ZOIW",
+            "price": 15.06,
+            "profit": 25.6
+        },
+        {
+            "name": "Share-GSPE",
+            "price": 48.99,
+            "profit": 11.65
+        },
+        {
+            "name": "Share-IZCN",
+            "price": 31.52,
+            "profit": 12.4
+        },
+        {
+            "name": "Share-XLQI",
+            "price": 31.33,
+            "profit": 32.56
+        },
+        {
+            "name": "Share-BDMW",
+            "price": 48.51,
+            "profit": 19.39
+        },
+        {
+            "name": "Share-HCCK",
+            "price": 20.58,
+            "profit": 3.21
+        },
+        {
+            "name": "Share-DWFW",
+            "price": 15.17,
+            "profit": 16.53
+        },
+        {
+            "name": "Share-TDXX",
+            "price": 30.93,
+            "profit": 14.84
+        },
+        {
+            "name": "Share-ZXSD",
+            "price": 44.62,
+            "profit": 21.01
+        },
+        {
+            "name": "Share-MKZB",
+            "price": 6.97,
+            "profit": 33.89
+        },
+        {
+            "name": "Share-XRZR",
+            "price": 14.78,
+            "profit": 6.37
+        },
+        {
+            "name": "Share-XPEO",
+            "price": 31.13,
+            "profit": 27.06
+        },
+        {
+            "name": "Share-QDBT",
+            "price": 23.68,
+            "profit": 17.58
+        },
+        {
+            "name": "Share-CPNV",
+            "price": 28.84,
+            "profit": 6.96
+        },
+        {
+            "name": "Share-QFPK",
+            "price": 11.96,
+            "profit": 9.51
+        },
+        {
+            "name": "Share-CXDL",
+            "price": 27.89,
+            "profit": 14.17
+        },
+        {
+            "name": "Share-MMFR",
+            "price": 37.78,
+            "profit": 38.54
+        },
+        {
+            "name": "Share-MYPQ",
+            "price": 14.1,
+            "profit": 6.55
+        },
+        {
+            "name": "Share-EZLR",
+            "price": 17.59,
+            "profit": 19.71
+        },
+        {
+            "name": "Share-QJZD",
+            "price": 47.58,
+            "profit": 22.72
+        },
+        {
+            "name": "Share-YDJK",
+            "price": 25.79,
+            "profit": 12.25
+        },
+        {
+            "name": "Share-ZSRN",
+            "price": 31.7,
+            "profit": 4.62
+        },
+        {
+            "name": "Share-IMGN",
+            "price": 30.72,
+            "profit": 33.04
+        },
+        {
+            "name": "Share-HPQO",
+            "price": 5.03,
+            "profit": 34.97
+        },
+        {
+            "name": "Share-KYUG",
+            "price": 15.06,
+            "profit": 1.42
+        },
+        {
+            "name": "Share-YZOF",
+            "price": 9.65,
+            "profit": 12.6
+        },
+        {
+            "name": "Share-KPMF",
+            "price": 39.44,
+            "profit": 22.13
+        },
+        {
+            "name": "Share-RBTN",
+            "price": 0.0,
+            "profit": 33.06
+        },
+        {
+            "name": "Share-CBTR",
+            "price": 36.81,
+            "profit": 5.71
+        },
+        {
+            "name": "Share-JGEU",
+            "price": 27.08,
+            "profit": 25.8
+        },
+        {
+            "name": "Share-SIRR",
+            "price": 34.39,
+            "profit": 26.68
+        },
+        {
+            "name": "Share-TECI",
+            "price": 30.9,
+            "profit": 12.34
+        },
+        {
+            "name": "Share-NFGO",
+            "price": 38.33,
+            "profit": 36.59
+        },
+        {
+            "name": "Share-XJMO",
+            "price": 9.39,
+            "profit": 39.98
+        },
+        {
+            "name": "Share-IFPU",
+            "price": 35.66,
+            "profit": 20.67
+        },
+        {
+            "name": "Share-SNKS",
+            "price": 16.75,
+            "profit": 39.04
+        },
+        {
+            "name": "Share-GKRC",
+            "price": 19.28,
+            "profit": 27.34
+        },
+        {
+            "name": "Share-XZNX",
+            "price": 34.59,
+            "profit": 3.14
+        },
+        {
+            "name": "Share-XRNJ",
+            "price": 26.54,
+            "profit": 21.03
+        },
+        {
+            "name": "Share-OGGC",
+            "price": 25.25,
+            "profit": 17.07
+        },
+        {
+            "name": "Share-TNHW",
+            "price": 45.8,
+            "profit": 6.23
+        },
+        {
+            "name": "Share-YMIE",
+            "price": 18.31,
+            "profit": 12.75
+        },
+        {
+            "name": "Share-LKBB",
+            "price": 8.28,
+            "profit": 13.4
+        },
+        {
+            "name": "Share-IQED",
+            "price": 33.12,
+            "profit": 34.59
+        },
+        {
+            "name": "Share-LFLL",
+            "price": 15.17,
+            "profit": 9.49
+        },
+        {
+            "name": "Share-OJRZ",
+            "price": 31.68,
+            "profit": 1.1
+        },
+        {
+            "name": "Share-IKCF",
+            "price": 3.37,
+            "profit": 5.17
+        },
+        {
+            "name": "Share-RNBA",
+            "price": 19.47,
+            "profit": 6.23
+        },
+        {
+            "name": "Share-YZFJ",
+            "price": 34.75,
+            "profit": 11.89
+        },
+        {
+            "name": "Share-RGDB",
+            "price": 23.95,
+            "profit": 24.47
+        },
+        {
+            "name": "Share-UEIV",
+            "price": 33.41,
+            "profit": 30.66
+        },
+        {
+            "name": "Share-VQPV",
+            "price": 20.9,
+            "profit": 21.01
+        },
+        {
+            "name": "Share-OHHU",
+            "price": 40.43,
+            "profit": 38.01
+        },
+        {
+            "name": "Share-AXIX",
+            "price": 36.82,
+            "profit": 20.38
+        },
+        {
+            "name": "Share-KOUD",
+            "price": 35.09,
+            "profit": 35.93
+        },
+        {
+            "name": "Share-NALT",
+            "price": 48.96,
+            "profit": 11.63
+        },
+        {
+            "name": "Share-NHKZ",
+            "price": 30.69,
+            "profit": 0.98
+        },
+        {
+            "name": "Share-NKUT",
+            "price": 34.4,
+            "profit": 24.93
+        },
+        {
+            "name": "Share-GPGM",
+            "price": 47.4,
+            "profit": 19.93
+        },
+        {
+            "name": "Share-NFNZ",
+            "price": 25.77,
+            "profit": 18.88
+        },
+        {
+            "name": "Share-NVDR",
+            "price": 1.99,
+            "profit": 16.54
+        },
+        {
+            "name": "Share-NQIL",
+            "price": 13.37,
+            "profit": 24.4
+        },
+        {
+            "name": "Share-VTWL",
+            "price": 5.98,
+            "profit": 21.69
+        },
+        {
+            "name": "Share-JEQJ",
+            "price": 25.73,
+            "profit": 23.34
+        },
+        {
+            "name": "Share-IXSO",
+            "price": 19.7,
+            "profit": 28.29
+        },
+        {
+            "name": "Share-HGVJ",
+            "price": 26.2,
+            "profit": 24.94
+        },
+        {
+            "name": "Share-AIQL",
+            "price": 25.69,
+            "profit": 33.68
+        },
+        {
+            "name": "Share-KYXI",
+            "price": 29.07,
+            "profit": 31.36
+        },
+        {
+            "name": "Share-SIVL",
+            "price": 26.31,
+            "profit": 23.06
+        },
+        {
+            "name": "Share-GJMI",
+            "price": 25.09,
+            "profit": 30.39
+        },
+        {
+            "name": "Share-OLCV",
+            "price": 38.97,
+            "profit": 13.15
+        },
+        {
+            "name": "Share-SLZZ",
+            "price": 14.87,
+            "profit": 29.76
+        },
+        {
+            "name": "Share-RDQM",
+            "price": 30.61,
+            "profit": 1.66
+        },
+        {
+            "name": "Share-UOZD",
+            "price": 21.17,
+            "profit": 30.86
+        },
+        {
+            "name": "Share-MOXN",
+            "price": 31.29,
+            "profit": 1.79
+        },
+        {
+            "name": "Share-XKAM",
+            "price": 47.01,
+            "profit": 38.1
+        },
+        {
+            "name": "Share-GGLB",
+            "price": 31.58,
+            "profit": 35.12
+        },
+        {
+            "name": "Share-GEYL",
+            "price": 24.68,
+            "profit": 18.23
+        },
+        {
+            "name": "Share-CIYW",
+            "price": 20.93,
+            "profit": 16.45
+        },
+        {
+            "name": "Share-EIZH",
+            "price": 27.73,
+            "profit": 14.51
+        },
+        {
+            "name": "Share-MPUS",
+            "price": 30.96,
+            "profit": 27.33
+        },
+        {
+            "name": "Share-YUVN",
+            "price": 15.09,
+            "profit": 13.82
+        },
+        {
+            "name": "Share-PEAZ",
+            "price": 15.72,
+            "profit": 32.53
+        },
+        {
+            "name": "Share-MWDM",
+            "price": 11.97,
+            "profit": 2.81
+        },
+        {
+            "name": "Share-LSZT",
+            "price": 34.9,
+            "profit": 39.19
+        },
+        {
+            "name": "Share-CBNY",
+            "price": 1.22,
+            "profit": 39.31
+        },
+        {
+            "name": "Share-HMVR",
+            "price": 15.62,
+            "profit": 16.57
+        },
+        {
+            "name": "Share-LGHI",
+            "price": 21.64,
+            "profit": 24.62
+        },
+        {
+            "name": "Share-VCWF",
+            "price": 24.71,
+            "profit": 28.83
+        },
+        {
+            "name": "Share-CGUS",
+            "price": 8.27,
+            "profit": 37.38
+        },
+        {
+            "name": "Share-REMR",
+            "price": 26.84,
+            "profit": 32.94
+        },
+        {
+            "name": "Share-MXBC",
+            "price": 15.26,
+            "profit": 13.02
+        },
+        {
+            "name": "Share-ZDHV",
+            "price": 16.64,
+            "profit": 10.3
+        },
+        {
+            "name": "Share-AVUV",
+            "price": 11.65,
+            "profit": 11.66
+        },
+        {
+            "name": "Share-WVTR",
+            "price": 35.99,
+            "profit": 29.65
+        },
+        {
+            "name": "Share-MLVQ",
+            "price": 36.23,
+            "profit": 8.13
+        },
+        {
+            "name": "Share-NCFR",
+            "price": 25.4,
+            "profit": 3.06
+        },
+        {
+            "name": "Share-LFGX",
+            "price": 25.04,
+            "profit": 9.84
+        },
+        {
+            "name": "Share-HQDA",
+            "price": 25.28,
+            "profit": 7.95
+        },
+        {
+            "name": "Share-UMGT",
+            "price": 5.97,
+            "profit": 1.28
+        },
+        {
+            "name": "Share-WITL",
+            "price": 38.65,
+            "profit": 6.37
+        },
+        {
+            "name": "Share-XOBN",
+            "price": 34.06,
+            "profit": 2.33
+        },
+        {
+            "name": "Share-AHYU",
+            "price": 20.99,
+            "profit": 5.34
+        },
+        {
+            "name": "Share-YLHV",
+            "price": 43.01,
+            "profit": 35.12
+        },
+        {
+            "name": "Share-BTKZ",
+            "price": 17.55,
+            "profit": 36.72
+        },
+        {
+            "name": "Share-YEYV",
+            "price": 32.67,
+            "profit": 2.59
+        },
+        {
+            "name": "Share-BGVK",
+            "price": 18.27,
+            "profit": 9.33
+        },
+        {
+            "name": "Share-OFWH",
+            "price": 30.0,
+            "profit": 11.97
+        },
+        {
+            "name": "Share-XKFR",
+            "price": 42.85,
+            "profit": 13.22
+        },
+        {
+            "name": "Share-SNUW",
+            "price": 44.48,
+            "profit": 8.52
+        },
+        {
+            "name": "Share-QWHX",
+            "price": 45.37,
+            "profit": 31.39
+        },
+        {
+            "name": "Share-TZIJ",
+            "price": 25.62,
+            "profit": 1.75
+        },
+        {
+            "name": "Share-ILTN",
+            "price": 23.8,
+            "profit": 2.45
+        },
+        {
+            "name": "Share-TIRJ",
+            "price": 29.33,
+            "profit": 12.78
+        },
+        {
+            "name": "Share-URMZ",
+            "price": 34.99,
+            "profit": 38.89
+        },
+        {
+            "name": "Share-FZFY",
+            "price": 33.03,
+            "profit": 3.98
+        },
+        {
+            "name": "Share-UTIJ",
+            "price": 20.36,
+            "profit": 24.11
+        },
+        {
+            "name": "Share-PFEQ",
+            "price": 26.95,
+            "profit": 12.54
+        },
+        {
+            "name": "Share-LNBX",
+            "price": 32.12,
+            "profit": 24.04
+        },
+        {
+            "name": "Share-BORU",
+            "price": 34.6,
+            "profit": 23.87
+        },
+        {
+            "name": "Share-QOYO",
+            "price": 12.93,
+            "profit": 36.43
+        },
+        {
+            "name": "Share-BAPF",
+            "price": 37.14,
+            "profit": 10.33
+        },
+        {
+            "name": "Share-RJIB",
+            "price": 21.22,
+            "profit": 34.07
+        },
+        {
+            "name": "Share-ICKP",
+            "price": 26.65,
+            "profit": 19.6
+        },
+        {
+            "name": "Share-DPMV",
+            "price": 40.44,
+            "profit": 9.19
+        },
+        {
+            "name": "Share-EWGU",
+            "price": 0.0,
+            "profit": 34.27
+        },
+        {
+            "name": "Share-MIOT",
+            "price": 20.91,
+            "profit": 29.35
+        },
+        {
+            "name": "Share-GSDZ",
+            "price": 44.29,
+            "profit": 11.37
+        },
+        {
+            "name": "Share-GOEX",
+            "price": 38.41,
+            "profit": 20.84
+        },
+        {
+            "name": "Share-IHOT",
+            "price": 10.47,
+            "profit": 24.64
+        },
+        {
+            "name": "Share-GIAJ",
+            "price": 10.75,
+            "profit": 39.9
+        },
+        {
+            "name": "Share-OTFE",
+            "price": 29.23,
+            "profit": 15.95
+        },
+        {
+            "name": "Share-HMCY",
+            "price": 39.53,
+            "profit": 34.81
+        },
+        {
+            "name": "Share-UMCH",
+            "price": 21.51,
+            "profit": 23.28
+        },
+        {
+            "name": "Share-QQBR",
+            "price": 29.9,
+            "profit": 16.44
+        },
+        {
+            "name": "Share-WJZJ",
+            "price": 38.96,
+            "profit": 26.3
+        },
+        {
+            "name": "Share-CESY",
+            "price": 0.0,
+            "profit": 26.25
+        },
+        {
+            "name": "Share-OGLE",
+            "price": 41.9,
+            "profit": 10.45
+        },
+        {
+            "name": "Share-MNMP",
+            "price": 36.64,
+            "profit": 10.47
+        },
+        {
+            "name": "Share-KGQI",
+            "price": 0.23,
+            "profit": 18.91
+        },
+        {
+            "name": "Share-JGPU",
+            "price": 26.21,
+            "profit": 24.23
+        },
+        {
+            "name": "Share-LBSY",
+            "price": 31.98,
+            "profit": 23.16
+        },
+        {
+            "name": "Share-EMCQ",
+            "price": 6.37,
+            "profit": 20.46
+        },
+        {
+            "name": "Share-GHFD",
+            "price": 13.56,
+            "profit": 22.81
+        },
+        {
+            "name": "Share-ESFE",
+            "price": 13.5,
+            "profit": 4.44
+        },
+        {
+            "name": "Share-EJLA",
+            "price": 25.25,
+            "profit": 22.63
+        },
+        {
+            "name": "Share-JJNV",
+            "price": 38.71,
+            "profit": 14.41
+        },
+        {
+            "name": "Share-DIGK",
+            "price": 32.32,
+            "profit": 11.87
+        },
+        {
+            "name": "Share-NYKV",
+            "price": 15.38,
+            "profit": 30.95
+        },
+        {
+            "name": "Share-DDWA",
+            "price": 40.89,
+            "profit": 11.73
+        },
+        {
+            "name": "Share-SLGB",
+            "price": 9.77,
+            "profit": 21.69
+        },
+        {
+            "name": "Share-HYNU",
+            "price": 47.39,
+            "profit": 8.61
+        },
+        {
+            "name": "Share-KZFS",
+            "price": 9.73,
+            "profit": 10.84
+        },
+        {
+            "name": "Share-THCY",
+            "price": 39.05,
+            "profit": 6.32
+        },
+        {
+            "name": "Share-SIZB",
+            "price": 6.13,
+            "profit": 23.12
+        },
+        {
+            "name": "Share-TUQB",
+            "price": 19.32,
+            "profit": 15.61
+        },
+        {
+            "name": "Share-NTQC",
+            "price": 30.85,
+            "profit": 17.09
+        },
+        {
+            "name": "Share-HYMY",
+            "price": 26.4,
+            "profit": 34.84
+        },
+        {
+            "name": "Share-VXCW",
+            "price": 0.0,
+            "profit": 5.87
+        },
+        {
+            "name": "Share-JYBM",
+            "price": 24.65,
+            "profit": 38.04
+        },
+        {
+            "name": "Share-VGRH",
+            "price": 34.98,
+            "profit": 9.17
+        },
+        {
+            "name": "Share-PSVO",
+            "price": 0.0,
+            "profit": 15.5
+        },
+        {
+            "name": "Share-NBSA",
+            "price": 33.83,
+            "profit": 34.41
+        },
+        {
+            "name": "Share-OFJC",
+            "price": 24.83,
+            "profit": 3.66
+        },
+        {
+            "name": "Share-JWVH",
+            "price": 1.71,
+            "profit": 10.41
+        },
+        {
+            "name": "Share-PEQK",
+            "price": 34.63,
+            "profit": 24.37
+        },
+        {
+            "name": "Share-WAQC",
+            "price": 21.71,
+            "profit": 22.7
+        },
+        {
+            "name": "Share-ZEIM",
+            "price": 31.25,
+            "profit": 16.18
+        },
+        {
+            "name": "Share-RPXU",
+            "price": 13.75,
+            "profit": 26.64
+        },
+        {
+            "name": "Share-DTZY",
+            "price": 35.96,
+            "profit": 19.34
+        },
+        {
+            "name": "Share-LHKD",
+            "price": 34.45,
+            "profit": 16.51
+        },
+        {
+            "name": "Share-YRSC",
+            "price": 47.0,
+            "profit": 38.3
+        },
+        {
+            "name": "Share-MZLJ",
+            "price": 23.2,
+            "profit": 17.43
+        },
+        {
+            "name": "Share-YECK",
+            "price": 32.66,
+            "profit": 29.22
+        },
+        {
+            "name": "Share-SZEE",
+            "price": 36.55,
+            "profit": 23.72
+        },
+        {
+            "name": "Share-MTJQ",
+            "price": 41.49,
+            "profit": 25.62
+        },
+        {
+            "name": "Share-PBXL",
+            "price": 5.46,
+            "profit": 36.76
+        },
+        {
+            "name": "Share-BMTW",
+            "price": 27.23,
+            "profit": 16.76
+        },
+        {
+            "name": "Share-YPHD",
+            "price": 5.72,
+            "profit": 9.91
+        },
+        {
+            "name": "Share-TXHQ",
+            "price": 8.97,
+            "profit": 36.74
+        },
+        {
+            "name": "Share-KAUS",
+            "price": 42.96,
+            "profit": 29.36
+        },
+        {
+            "name": "Share-BFRJ",
+            "price": 43.43,
+            "profit": 17.65
+        },
+        {
+            "name": "Share-NDNV",
+            "price": 8.19,
+            "profit": 34.97
+        },
+        {
+            "name": "Share-GNLH",
+            "price": 11.86,
+            "profit": 23.48
+        },
+        {
+            "name": "Share-WMQI",
+            "price": 39.87,
+            "profit": 23.15
+        },
+        {
+            "name": "Share-ARZU",
+            "price": 0.0,
+            "profit": 9.01
+        },
+        {
+            "name": "Share-MDAT",
+            "price": 41.4,
+            "profit": 35.95
+        },
+        {
+            "name": "Share-QBZY",
+            "price": 40.0,
+            "profit": 33.6
+        },
+        {
+            "name": "Share-YHNK",
+            "price": 35.09,
+            "profit": 11.16
+        },
+        {
+            "name": "Share-DGFR",
+            "price": 37.13,
+            "profit": 32.1
+        },
+        {
+            "name": "Share-FVCW",
+            "price": 14.48,
+            "profit": 4.94
+        },
+        {
+            "name": "Share-JREW",
+            "price": 9.93,
+            "profit": 15.05
+        },
+        {
+            "name": "Share-NOLN",
+            "price": 22.65,
+            "profit": 1.2
+        },
+        {
+            "name": "Share-DSKL",
+            "price": 38.68,
+            "profit": 20.93
+        },
+        {
+            "name": "Share-LHLG",
+            "price": 42.98,
+            "profit": 28.34
+        },
+        {
+            "name": "Share-HJJZ",
+            "price": 17.54,
+            "profit": 6.56
+        },
+        {
+            "name": "Share-URDO",
+            "price": 32.8,
+            "profit": 12.91
+        },
+        {
+            "name": "Share-URKJ",
+            "price": 28.32,
+            "profit": 36.08
+        },
+        {
+            "name": "Share-JSDR",
+            "price": 21.66,
+            "profit": 27.61
+        },
+        {
+            "name": "Share-KMDP",
+            "price": 32.23,
+            "profit": 22.12
+        },
+        {
+            "name": "Share-TGMY",
+            "price": 44.93,
+            "profit": 2.02
+        },
+        {
+            "name": "Share-RCCP",
+            "price": 2.09,
+            "profit": 35.32
+        },
+        {
+            "name": "Share-GQZA",
+            "price": 5.86,
+            "profit": 12.81
+        },
+        {
+            "name": "Share-EQFF",
+            "price": 18.75,
+            "profit": 6.05
+        },
+        {
+            "name": "Share-QQTU",
+            "price": 33.19,
+            "profit": 39.6
+        },
+        {
+            "name": "Share-LWHP",
+            "price": 32.0,
+            "profit": 29.24
+        },
+        {
+            "name": "Share-SRHN",
+            "price": 26.36,
+            "profit": 34.08
+        },
+        {
+            "name": "Share-SORI",
+            "price": 7.97,
+            "profit": 20.13
+        },
+        {
+            "name": "Share-TQVQ",
+            "price": 4.41,
+            "profit": 11.48
+        },
+        {
+            "name": "Share-UIWH",
+            "price": 30.41,
+            "profit": 24.69
+        },
+        {
+            "name": "Share-PJBF",
+            "price": 17.09,
+            "profit": 19.7
+        },
+        {
+            "name": "Share-VOPM",
+            "price": 46.57,
+            "profit": 10.32
+        },
+        {
+            "name": "Share-MSWM",
+            "price": 14.48,
+            "profit": 2.91
+        },
+        {
+            "name": "Share-TPPD",
+            "price": 22.77,
+            "profit": 15.55
+        },
+        {
+            "name": "Share-GDNC",
+            "price": 45.82,
+            "profit": 28.36
+        },
+        {
+            "name": "Share-OELG",
+            "price": 33.83,
+            "profit": 3.85
+        },
+        {
+            "name": "Share-HBXW",
+            "price": 2.73,
+            "profit": 20.92
+        },
+        {
+            "name": "Share-UYOE",
+            "price": 38.08,
+            "profit": 0.62
+        },
+        {
+            "name": "Share-VMPZ",
+            "price": 24.08,
+            "profit": 10.5
+        },
+        {
+            "name": "Share-GMUB",
+            "price": 36.8,
+            "profit": 17.7
+        },
+        {
+            "name": "Share-LCVT",
+            "price": 6.06,
+            "profit": 1.05
+        },
+        {
+            "name": "Share-KRMG",
+            "price": 15.22,
+            "profit": 31.68
+        },
+        {
+            "name": "Share-FYUX",
+            "price": 3.68,
+            "profit": 19.51
+        },
+        {
+            "name": "Share-DSJF",
+            "price": 24.72,
+            "profit": 2.94
+        },
+        {
+            "name": "Share-MCJZ",
+            "price": 47.05,
+            "profit": 6.57
+        },
+        {
+            "name": "Share-STKT",
+            "price": 0.28,
+            "profit": 7.79
+        },
+        {
+            "name": "Share-FSTB",
+            "price": 27.28,
+            "profit": 12.6
+        },
+        {
+            "name": "Share-KQHE",
+            "price": 21.63,
+            "profit": 1.37
+        },
+        {
+            "name": "Share-MXKO",
+            "price": 0.0,
+            "profit": 23.17
+        },
+        {
+            "name": "Share-JEHF",
+            "price": 21.92,
+            "profit": 1.56
+        },
+        {
+            "name": "Share-SKKC",
+            "price": 24.87,
+            "profit": 39.49
+        },
+        {
+            "name": "Share-RPNK",
+            "price": 46.37,
+            "profit": 3.24
+        },
+        {
+            "name": "Share-LZLU",
+            "price": 12.12,
+            "profit": 35.54
+        },
+        {
+            "name": "Share-ICYR",
+            "price": 27.21,
+            "profit": 5.0
+        },
+        {
+            "name": "Share-VOEF",
+            "price": 32.38,
+            "profit": 5.72
+        },
+        {
+            "name": "Share-LSBJ",
+            "price": 39.9,
+            "profit": 19.83
+        },
+        {
+            "name": "Share-HQIF",
+            "price": 34.88,
+            "profit": 15.13
+        },
+        {
+            "name": "Share-TWXB",
+            "price": 26.92,
+            "profit": 1.34
+        },
+        {
+            "name": "Share-HQHB",
+            "price": 27.01,
+            "profit": 23.97
+        },
+        {
+            "name": "Share-PYSY",
+            "price": 26.63,
+            "profit": 30.28
+        },
+        {
+            "name": "Share-JAGI",
+            "price": 36.36,
+            "profit": 35.92
+        },
+        {
+            "name": "Share-EYGW",
+            "price": 46.25,
+            "profit": 17.35
+        },
+        {
+            "name": "Share-OFCJ",
+            "price": 10.69,
+            "profit": 34.05
+        },
+        {
+            "name": "Share-WGNW",
+            "price": 38.88,
+            "profit": 24.0
+        },
+        {
+            "name": "Share-JNGS",
+            "price": -2.73,
+            "profit": 22.22
+        },
+        {
+            "name": "Share-IETC",
+            "price": 0.0,
+            "profit": 33.17
+        },
+        {
+            "name": "Share-BPBC",
+            "price": 26.55,
+            "profit": 15.5
+        },
+        {
+            "name": "Share-HIGA",
+            "price": 5.34,
+            "profit": 31.01
+        },
+        {
+            "name": "Share-JEAI",
+            "price": 31.06,
+            "profit": 29.46
+        },
+        {
+            "name": "Share-FNVN",
+            "price": 9.03,
+            "profit": 14.25
+        },
+        {
+            "name": "Share-AQZD",
+            "price": 39.1,
+            "profit": 32.4
+        },
+        {
+            "name": "Share-WBLU",
+            "price": 39.29,
+            "profit": 3.32
+        },
+        {
+            "name": "Share-HJFD",
+            "price": 8.61,
+            "profit": 16.15
+        },
+        {
+            "name": "Share-QSSK",
+            "price": 29.01,
+            "profit": 20.95
+        },
+        {
+            "name": "Share-WQLH",
+            "price": 6.75,
+            "profit": 1.55
+        },
+        {
+            "name": "Share-ALZI",
+            "price": 9.61,
+            "profit": 28.14
+        },
+        {
+            "name": "Share-CNVT",
+            "price": 23.78,
+            "profit": 33.52
+        },
+        {
+            "name": "Share-NJKY",
+            "price": 30.73,
+            "profit": 37.82
+        },
+        {
+            "name": "Share-QIID",
+            "price": 29.25,
+            "profit": 11.64
+        },
+        {
+            "name": "Share-CDSP",
+            "price": 0.0,
+            "profit": 16.03
+        },
+        {
+            "name": "Share-BOZY",
+            "price": 25.86,
+            "profit": 13.2
+        },
+        {
+            "name": "Share-OTLF",
+            "price": 34.81,
+            "profit": 35.31
+        },
+        {
+            "name": "Share-TEET",
+            "price": 43.2,
+            "profit": 37.93
+        },
+        {
+            "name": "Share-GWMA",
+            "price": 0.0,
+            "profit": 18.22
+        },
+        {
+            "name": "Share-HHFE",
+            "price": 25.9,
+            "profit": 23.95
+        },
+        {
+            "name": "Share-HERB",
+            "price": 48.28,
+            "profit": 12.13
+        },
+        {
+            "name": "Share-KKQW",
+            "price": 21.59,
+            "profit": 20.33
+        },
+        {
+            "name": "Share-FKJR",
+            "price": 0.8,
+            "profit": 14.73
+        },
+        {
+            "name": "Share-LOKP",
+            "price": 41.04,
+            "profit": 39.17
+        },
+        {
+            "name": "Share-TZKX",
+            "price": 44.94,
+            "profit": 26.7
+        },
+        {
+            "name": "Share-DYJJ",
+            "price": 21.05,
+            "profit": 21.2
+        },
+        {
+            "name": "Share-DRRI",
+            "price": 27.64,
+            "profit": 20.85
+        },
+        {
+            "name": "Share-CFUF",
+            "price": 34.05,
+            "profit": 7.67
+        },
+        {
+            "name": "Share-MUFT",
+            "price": 23.38,
+            "profit": 19.1
+        },
+        {
+            "name": "Share-ZNKU",
+            "price": 6.96,
+            "profit": 38.77
+        },
+        {
+            "name": "Share-TOHR",
+            "price": 25.74,
+            "profit": 9.53
+        },
+        {
+            "name": "Share-ZSDE",
+            "price": 15.11,
+            "profit": 39.88
+        },
+        {
+            "name": "Share-AAZC",
+            "price": 36.78,
+            "profit": 18.71
+        },
+        {
+            "name": "Share-DSME",
+            "price": 22.62,
+            "profit": 16.53
+        },
+        {
+            "name": "Share-PWHJ",
+            "price": 39.65,
+            "profit": 8.51
+        },
+        {
+            "name": "Share-LUSV",
+            "price": 19.87,
+            "profit": 12.06
+        },
+        {
+            "name": "Share-YXVL",
+            "price": 26.62,
+            "profit": 22.79
+        },
+        {
+            "name": "Share-XLQD",
+            "price": 39.13,
+            "profit": 14.95
+        },
+        {
+            "name": "Share-WIBX",
+            "price": 20.58,
+            "profit": 25.98
+        },
+        {
+            "name": "Share-DXLL",
+            "price": 0.0,
+            "profit": 28.11
+        },
+        {
+            "name": "Share-YYBB",
+            "price": 39.15,
+            "profit": 0.35
+        },
+        {
+            "name": "Share-COVF",
+            "price": 30.7,
+            "profit": 15.92
+        },
+        {
+            "name": "Share-GRSA",
+            "price": 13.0,
+            "profit": 34.88
+        },
+        {
+            "name": "Share-CKIZ",
+            "price": 0.0,
+            "profit": 33.06
+        },
+        {
+            "name": "Share-BXEV",
+            "price": 6.7,
+            "profit": 33.58
+        },
+        {
+            "name": "Share-LSTK",
+            "price": 14.89,
+            "profit": 32.98
+        },
+        {
+            "name": "Share-GLOV",
+            "price": 39.92,
+            "profit": 9.35
+        },
+        {
+            "name": "Share-LYIZ",
+            "price": 21.79,
+            "profit": 23.22
+        },
+        {
+            "name": "Share-HQWX",
+            "price": 6.35,
+            "profit": 6.39
+        },
+        {
+            "name": "Share-KXYC",
+            "price": 17.18,
+            "profit": 15.71
+        },
+        {
+            "name": "Share-ANXT",
+            "price": 13.32,
+            "profit": 35.6
+        },
+        {
+            "name": "Share-OAOX",
+            "price": 36.3,
+            "profit": 31.47
+        },
+        {
+            "name": "Share-LGWG",
+            "price": 31.41,
+            "profit": 39.5
+        },
+        {
+            "name": "Share-VPPA",
+            "price": 4.09,
+            "profit": 2.15
+        },
+        {
+            "name": "Share-USDU",
+            "price": 0.0,
+            "profit": 33.49
+        },
+        {
+            "name": "Share-FJZC",
+            "price": 20.64,
+            "profit": 30.34
+        },
+        {
+            "name": "Share-HCNK",
+            "price": 13.03,
+            "profit": 23.56
+        },
+        {
+            "name": "Share-WFZZ",
+            "price": 29.81,
+            "profit": 35.78
+        },
+        {
+            "name": "Share-DAQE",
+            "price": 20.97,
+            "profit": 10.87
+        },
+        {
+            "name": "Share-FYKQ",
+            "price": 41.06,
+            "profit": 38.75
+        },
+        {
+            "name": "Share-IPUP",
+            "price": 26.11,
+            "profit": 30.68
+        },
+        {
+            "name": "Share-XGXY",
+            "price": 28.39,
+            "profit": 36.2
+        },
+        {
+            "name": "Share-LVQC",
+            "price": 41.57,
+            "profit": 16.98
+        },
+        {
+            "name": "Share-PXVO",
+            "price": 15.37,
+            "profit": 20.19
+        },
+        {
+            "name": "Share-OVCD",
+            "price": 31.92,
+            "profit": 10.1
+        },
+        {
+            "name": "Share-WPLI",
+            "price": 34.64,
+            "profit": 39.91
+        },
+        {
+            "name": "Share-LJEO",
+            "price": 40.87,
+            "profit": 25.07
+        },
+        {
+            "name": "Share-PISF",
+            "price": 20.49,
+            "profit": 7.85
+        },
+        {
+            "name": "Share-ZQNA",
+            "price": 28.59,
+            "profit": 12.42
+        },
+        {
+            "name": "Share-EMNG",
+            "price": 25.21,
+            "profit": 4.2
+        },
+        {
+            "name": "Share-BJIF",
+            "price": 10.56,
+            "profit": 31.36
+        },
+        {
+            "name": "Share-QGUP",
+            "price": 4.45,
+            "profit": 20.44
+        },
+        {
+            "name": "Share-XUCG",
+            "price": 12.25,
+            "profit": 22.1
+        },
+        {
+            "name": "Share-RPNX",
+            "price": 25.11,
+            "profit": 4.58
+        },
+        {
+            "name": "Share-KCEB",
+            "price": 38.89,
+            "profit": 6.34
+        },
+        {
+            "name": "Share-KFOQ",
+            "price": 26.19,
+            "profit": 17.4
+        },
+        {
+            "name": "Share-FVNN",
+            "price": 33.93,
+            "profit": 31.26
+        },
+        {
+            "name": "Share-XZOD",
+            "price": 12.07,
+            "profit": 2.81
+        },
+        {
+            "name": "Share-GGKK",
+            "price": 22.15,
+            "profit": 11.56
+        },
+        {
+            "name": "Share-JPQM",
+            "price": 10.82,
+            "profit": 14.81
+        },
+        {
+            "name": "Share-WYJO",
+            "price": 33.73,
+            "profit": 31.99
+        },
+        {
+            "name": "Share-IAFR",
+            "price": 30.57,
+            "profit": 4.82
+        },
+        {
+            "name": "Share-MCBN",
+            "price": 29.5,
+            "profit": 16.75
+        },
+        {
+            "name": "Share-UFQB",
+            "price": 23.77,
+            "profit": 25.16
+        },
+        {
+            "name": "Share-ZHNO",
+            "price": 24.32,
+            "profit": 21.42
+        },
+        {
+            "name": "Share-MGXU",
+            "price": 13.5,
+            "profit": 38.27
+        },
+        {
+            "name": "Share-TUFN",
+            "price": 10.37,
+            "profit": 22.89
+        },
+        {
+            "name": "Share-NVVV",
+            "price": 37.44,
+            "profit": 7.52
+        },
+        {
+            "name": "Share-EPTB",
+            "price": 21.32,
+            "profit": 23.65
+        },
+        {
+            "name": "Share-WSEH",
+            "price": 0.0,
+            "profit": 12.43
+        },
+        {
+            "name": "Share-ARYE",
+            "price": 17.62,
+            "profit": 14.41
+        },
+        {
+            "name": "Share-CGJM",
+            "price": 17.21,
+            "profit": 39.3
+        },
+        {
+            "name": "Share-ZJWM",
+            "price": 26.58,
+            "profit": 32.21
+        },
+        {
+            "name": "Share-XAZS",
+            "price": 35.02,
+            "profit": 29.32
+        },
+        {
+            "name": "Share-CPWU",
+            "price": 37.92,
+            "profit": 38.28
+        },
+        {
+            "name": "Share-UIMY",
+            "price": 16.52,
+            "profit": 1.83
+        },
+        {
+            "name": "Share-UKXZ",
+            "price": 35.19,
+            "profit": 7.27
+        },
+        {
+            "name": "Share-YMFX",
+            "price": 24.46,
+            "profit": 32.96
+        },
+        {
+            "name": "Share-MLNK",
+            "price": 45.74,
+            "profit": 27.66
+        },
+        {
+            "name": "Share-HJKI",
+            "price": 9.7,
+            "profit": 0.3
+        },
+        {
+            "name": "Share-PEVC",
+            "price": 17.51,
+            "profit": 1.87
+        },
+        {
+            "name": "Share-HDZP",
+            "price": 3.48,
+            "profit": 2.41
+        },
+        {
+            "name": "Share-GUTR",
+            "price": 16.5,
+            "profit": 15.85
+        },
+        {
+            "name": "Share-HPYJ",
+            "price": 24.88,
+            "profit": 19.82
+        },
+        {
+            "name": "Share-EXKV",
+            "price": 0.0,
+            "profit": 27.83
+        },
+        {
+            "name": "Share-TVCG",
+            "price": 15.27,
+            "profit": 4.93
+        },
+        {
+            "name": "Share-DRZA",
+            "price": 8.24,
+            "profit": 17.26
+        },
+        {
+            "name": "Share-CYLI",
+            "price": 18.82,
+            "profit": 20.97
+        },
+        {
+            "name": "Share-LZSG",
+            "price": 36.54,
+            "profit": 18.45
+        },
+        {
+            "name": "Share-FTYA",
+            "price": 19.58,
+            "profit": 29.72
+        },
+        {
+            "name": "Share-QLMK",
+            "price": 17.38,
+            "profit": 39.49
+        },
+        {
+            "name": "Share-OLCM",
+            "price": 31.19,
+            "profit": 26.9
+        },
+        {
+            "name": "Share-WPCD",
+            "price": 42.55,
+            "profit": 34.32
+        },
+        {
+            "name": "Share-OSGU",
+            "price": 42.76,
+            "profit": 9.62
+        },
+        {
+            "name": "Share-BQLT",
+            "price": 24.12,
+            "profit": 13.38
+        },
+        {
+            "name": "Share-RKNE",
+            "price": 3.69,
+            "profit": 10.06
+        },
+        {
+            "name": "Share-VRIE",
+            "price": 36.95,
+            "profit": 32.22
+        },
+        {
+            "name": "Share-HBGI",
+            "price": 40.08,
+            "profit": 35.1
+        },
+        {
+            "name": "Share-VNFB",
+            "price": 22.88,
+            "profit": 20.99
+        },
+        {
+            "name": "Share-QSQG",
+            "price": 8.68,
+            "profit": 37.32
+        },
+        {
+            "name": "Share-CRZH",
+            "price": 30.01,
+            "profit": 34.82
+        },
+        {
+            "name": "Share-CXGC",
+            "price": 21.73,
+            "profit": 3.43
+        },
+        {
+            "name": "Share-ECAB",
+            "price": 23.09,
+            "profit": 32.33
+        },
+        {
+            "name": "Share-PUDT",
+            "price": 10.9,
+            "profit": 3.97
+        },
+        {
+            "name": "Share-KMEM",
+            "price": 24.35,
+            "profit": 33.9
+        },
+        {
+            "name": "Share-TCIP",
+            "price": 22.2,
+            "profit": 29.46
+        },
+        {
+            "name": "Share-CVPG",
+            "price": 31.65,
+            "profit": 17.69
+        },
+        {
+            "name": "Share-XDUU",
+            "price": 30.33,
+            "profit": 3.26
+        },
+        {
+            "name": "Share-VYWQ",
+            "price": 33.85,
+            "profit": 30.44
+        },
+        {
+            "name": "Share-GLAO",
+            "price": 26.86,
+            "profit": 26.56
+        },
+        {
+            "name": "Share-MAJJ",
+            "price": 21.12,
+            "profit": 6.47
+        },
+        {
+            "name": "Share-NVBN",
+            "price": 21.63,
+            "profit": 30.95
+        },
+        {
+            "name": "Share-XXBE",
+            "price": 34.62,
+            "profit": 1.17
+        },
+        {
+            "name": "Share-QTKW",
+            "price": 29.15,
+            "profit": 35.04
+        },
+        {
+            "name": "Share-YAFK",
+            "price": 29.93,
+            "profit": 21.64
+        },
+        {
+            "name": "Share-MVRZ",
+            "price": 31.33,
+            "profit": 7.6
+        },
+        {
+            "name": "Share-MLGM",
+            "price": 0.01,
+            "profit": 18.86
+        },
+        {
+            "name": "Share-GUQG",
+            "price": 36.18,
+            "profit": 24.94
+        },
+        {
+            "name": "Share-QQGZ",
+            "price": 3.82,
+            "profit": 32.14
+        },
+        {
+            "name": "Share-VPMV",
+            "price": 34.12,
+            "profit": 9.71
+        },
+        {
+            "name": "Share-PNTD",
+            "price": 15.22,
+            "profit": 10.15
+        },
+        {
+            "name": "Share-MYPY",
+            "price": 24.11,
+            "profit": 21.97
+        },
+        {
+            "name": "Share-QMVF",
+            "price": 4.12,
+            "profit": 8.41
+        },
+        {
+            "name": "Share-UFXW",
+            "price": 30.73,
+            "profit": 12.44
+        },
+        {
+            "name": "Share-MOVT",
+            "price": 19.01,
+            "profit": 0.59
+        },
+        {
+            "name": "Share-RGMB",
+            "price": 30.2,
+            "profit": 31.47
+        },
+        {
+            "name": "Share-YGKX",
+            "price": 28.18,
+            "profit": 33.33
+        },
+        {
+            "name": "Share-QOGS",
+            "price": 10.56,
+            "profit": 12.33
+        },
+        {
+            "name": "Share-EMDG",
+            "price": 17.45,
+            "profit": 6.63
+        },
+        {
+            "name": "Share-SKUO",
+            "price": 0.0,
+            "profit": 23.55
+        },
+        {
+            "name": "Share-NCIK",
+            "price": 0.0,
+            "profit": 30.27
+        },
+        {
+            "name": "Share-OTAO",
+            "price": 28.29,
+            "profit": 20.29
+        },
+        {
+            "name": "Share-CIWC",
+            "price": 13.62,
+            "profit": 25.42
+        },
+        {
+            "name": "Share-DQRQ",
+            "price": 36.38,
+            "profit": 10.85
+        },
+        {
+            "name": "Share-XPMV",
+            "price": 28.12,
+            "profit": 37.48
+        },
+        {
+            "name": "Share-OBKH",
+            "price": 12.62,
+            "profit": 27.8
+        },
+        {
+            "name": "Share-MLDY",
+            "price": 22.61,
+            "profit": 21.33
+        },
+        {
+            "name": "Share-JCPU",
+            "price": 24.77,
+            "profit": 10.79
+        },
+        {
+            "name": "Share-OPSM",
+            "price": 0.0,
+            "profit": 26.28
+        },
+        {
+            "name": "Share-JHTJ",
+            "price": 44.04,
+            "profit": 25.57
+        },
+        {
+            "name": "Share-UBRS",
+            "price": 0.0,
+            "profit": 31.14
+        },
+        {
+            "name": "Share-XHQJ",
+            "price": 11.4,
+            "profit": 21.7
+        },
+        {
+            "name": "Share-QDWQ",
+            "price": 17.4,
+            "profit": 18.99
+        },
+        {
+            "name": "Share-OXSN",
+            "price": 15.68,
+            "profit": 4.53
+        },
+        {
+            "name": "Share-VNXO",
+            "price": 24.73,
+            "profit": 25.05
+        },
+        {
+            "name": "Share-EFWR",
+            "price": 29.32,
+            "profit": 1.82
+        },
+        {
+            "name": "Share-GZUU",
+            "price": 13.05,
+            "profit": 27.4
+        },
+        {
+            "name": "Share-LPGN",
+            "price": 17.14,
+            "profit": 15.14
+        },
+        {
+            "name": "Share-VHYI",
+            "price": 48.31,
+            "profit": 30.0
+        },
+        {
+            "name": "Share-FXBP",
+            "price": 11.87,
+            "profit": 28.86
+        },
+        {
+            "name": "Share-PLPK",
+            "price": 18.66,
+            "profit": 17.63
+        },
+        {
+            "name": "Share-OEDD",
+            "price": 27.56,
+            "profit": 21.18
+        },
+        {
+            "name": "Share-BMIQ",
+            "price": 25.2,
+            "profit": 34.16
+        },
+        {
+            "name": "Share-QINE",
+            "price": 26.5,
+            "profit": 37.18
+        },
+        {
+            "name": "Share-ITTV",
+            "price": 29.61,
+            "profit": 24.14
+        },
+        {
+            "name": "Share-QHTF",
+            "price": 20.53,
+            "profit": 15.63
+        },
+        {
+            "name": "Share-VBED",
+            "price": 5.32,
+            "profit": 15.37
+        },
+        {
+            "name": "Share-LTEB",
+            "price": 37.59,
+            "profit": 0.25
+        },
+        {
+            "name": "Share-OBVY",
+            "price": 29.01,
+            "profit": 2.54
+        },
+        {
+            "name": "Share-SHCI",
+            "price": 14.79,
+            "profit": 36.82
+        },
+        {
+            "name": "Share-VUSQ",
+            "price": 47.69,
+            "profit": 0.16
+        },
+        {
+            "name": "Share-BENA",
+            "price": 23.31,
+            "profit": 6.15
+        },
+        {
+            "name": "Share-BEQY",
+            "price": 27.96,
+            "profit": 37.91
+        },
+        {
+            "name": "Share-NQQC",
+            "price": 38.86,
+            "profit": 10.16
+        },
+        {
+            "name": "Share-RNXT",
+            "price": 5.14,
+            "profit": 28.45
+        },
+        {
+            "name": "Share-RIBY",
+            "price": 15.67,
+            "profit": 35.99
+        },
+        {
+            "name": "Share-HBPQ",
+            "price": 23.43,
+            "profit": 25.99
+        },
+        {
+            "name": "Share-BDME",
+            "price": 25.61,
+            "profit": 0.62
+        },
+        {
+            "name": "Share-FPVA",
+            "price": 19.72,
+            "profit": 18.67
+        },
+        {
+            "name": "Share-WVNM",
+            "price": 24.33,
+            "profit": 8.21
+        },
+        {
+            "name": "Share-MTFR",
+            "price": 17.85,
+            "profit": 29.93
+        },
+        {
+            "name": "Share-JGBU",
+            "price": 21.05,
+            "profit": 9.0
+        },
+        {
+            "name": "Share-IXFI",
+            "price": 45.04,
+            "profit": 17.55
+        },
+        {
+            "name": "Share-TMBL",
+            "price": 19.74,
+            "profit": 8.61
+        },
+        {
+            "name": "Share-PTYE",
+            "price": 29.58,
+            "profit": 8.13
+        },
+        {
+            "name": "Share-RDHG",
+            "price": 37.82,
+            "profit": 0.45
+        },
+        {
+            "name": "Share-TDWK",
+            "price": 29.0,
+            "profit": 14.57
+        },
+        {
+            "name": "Share-EVUW",
+            "price": 4.44,
+            "profit": 39.22
+        },
+        {
+            "name": "Share-HTJD",
+            "price": 46.96,
+            "profit": 28.99
+        },
+        {
+            "name": "Share-HHIZ",
+            "price": 41.58,
+            "profit": 15.58
+        },
+        {
+            "name": "Share-XBDW",
+            "price": 26.12,
+            "profit": 9.6
+        },
+        {
+            "name": "Share-PCHT",
+            "price": 22.24,
+            "profit": 24.96
+        },
+        {
+            "name": "Share-MOVE",
+            "price": 12.3,
+            "profit": 21.15
+        },
+        {
+            "name": "Share-HLYD",
+            "price": 3.4,
+            "profit": 12.43
+        },
+        {
+            "name": "Share-HIAN",
+            "price": 35.75,
+            "profit": 19.1
+        },
+        {
+            "name": "Share-YIOX",
+            "price": 26.12,
+            "profit": 9.22
+        },
+        {
+            "name": "Share-GRUT",
+            "price": 498.76,
+            "profit": 39.42
+        },
+        {
+            "name": "Share-UNHO",
+            "price": 26.1,
+            "profit": 3.0
+        },
+        {
+            "name": "Share-FKJW",
+            "price": 21.08,
+            "profit": 39.78
+        },
+        {
+            "name": "Share-WQMQ",
+            "price": 16.35,
+            "profit": 34.43
+        },
+        {
+            "name": "Share-TFVA",
+            "price": 37.16,
+            "profit": 37.69
+        },
+        {
+            "name": "Share-ARAY",
+            "price": 21.53,
+            "profit": 13.63
+        },
+        {
+            "name": "Share-AHQO",
+            "price": 28.18,
+            "profit": 15.38
+        },
+        {
+            "name": "Share-SNVL",
+            "price": 20.19,
+            "profit": 38.04
+        },
+        {
+            "name": "Share-VUTC",
+            "price": 22.42,
+            "profit": 10.32
+        },
+        {
+            "name": "Share-LAHI",
+            "price": 38.29,
+            "profit": 16.15
+        },
+        {
+            "name": "Share-YOET",
+            "price": 33.67,
+            "profit": 3.55
+        },
+        {
+            "name": "Share-LQHP",
+            "price": 26.14,
+            "profit": 4.73
+        },
+        {
+            "name": "Share-YPGY",
+            "price": 16.97,
+            "profit": 38.97
+        },
+        {
+            "name": "Share-NHRO",
+            "price": 21.77,
+            "profit": 7.48
+        },
+        {
+            "name": "Share-GERI",
+            "price": 26.26,
+            "profit": 25.32
+        },
+        {
+            "name": "Share-OQCA",
+            "price": 27.85,
+            "profit": 22.51
+        },
+        {
+            "name": "Share-XRRF",
+            "price": 11.13,
+            "profit": 13.29
+        },
+        {
+            "name": "Share-CVFX",
+            "price": 31.44,
+            "profit": 14.22
+        },
+        {
+            "name": "Share-GXSF",
+            "price": 37.2,
+            "profit": 37.15
+        },
+        {
+            "name": "Share-QUWM",
+            "price": 29.64,
+            "profit": 30.36
+        },
+        {
+            "name": "Share-VONS",
+            "price": 47.68,
+            "profit": 24.67
+        },
+        {
+            "name": "Share-UEZE",
+            "price": 2.93,
+            "profit": 29.39
+        },
+        {
+            "name": "Share-KFOG",
+            "price": 2.78,
+            "profit": 33.7
+        },
+        {
+            "name": "Share-UXBG",
+            "price": 6.08,
+            "profit": 34.58
+        },
+        {
+            "name": "Share-LNMC",
+            "price": 13.7,
+            "profit": 13.48
+        },
+        {
+            "name": "Share-WUWO",
+            "price": 35.81,
+            "profit": 20.15
+        },
+        {
+            "name": "Share-WBWX",
+            "price": 27.02,
+            "profit": 3.51
+        },
+        {
+            "name": "Share-SMUS",
+            "price": 23.92,
+            "profit": 33.62
+        },
+        {
+            "name": "Share-NNDP",
+            "price": 15.02,
+            "profit": 11.1
+        },
+        {
+            "name": "Share-GTQK",
+            "price": 15.4,
+            "profit": 39.95
+        },
+        {
+            "name": "Share-KEUJ",
+            "price": 34.5,
+            "profit": 17.23
+        },
+        {
+            "name": "Share-CVLS",
+            "price": 2.65,
+            "profit": 7.14
+        },
+        {
+            "name": "Share-TGAD",
+            "price": 19.06,
+            "profit": 18.58
+        },
+        {
+            "name": "Share-XZWG",
+            "price": 10.25,
+            "profit": 33.0
+        },
+        {
+            "name": "Share-VLOZ",
+            "price": 33.81,
+            "profit": 21.62
+        },
+        {
+            "name": "Share-JPRI",
+            "price": 30.54,
+            "profit": 30.15
+        },
+        {
+            "name": "Share-AFAJ",
+            "price": 29.12,
+            "profit": 34.82
+        },
+        {
+            "name": "Share-TRSF",
+            "price": 36.6,
+            "profit": 20.63
+        },
+        {
+            "name": "Share-CBLS",
+            "price": 30.38,
+            "profit": 10.95
+        },
+        {
+            "name": "Share-ZVEO",
+            "price": 4.78,
+            "profit": 6.35
+        },
+        {
+            "name": "Share-BYJX",
+            "price": 22.13,
+            "profit": 12.48
+        },
+        {
+            "name": "Share-RAOW",
+            "price": 28.24,
+            "profit": 6.94
+        },
+        {
+            "name": "Share-AZDM",
+            "price": 27.17,
+            "profit": 24.7
+        },
+        {
+            "name": "Share-IBVH",
+            "price": 6.04,
+            "profit": 22.03
+        },
+        {
+            "name": "Share-JKZM",
+            "price": 5.26,
+            "profit": 17.88
+        },
+        {
+            "name": "Share-QKDN",
+            "price": 28.55,
+            "profit": 39.21
+        },
+        {
+            "name": "Share-QRBH",
+            "price": 17.24,
+            "profit": 33.01
+        },
+        {
+            "name": "Share-HQVQ",
+            "price": 17.1,
+            "profit": 11.65
+        },
+        {
+            "name": "Share-CFML",
+            "price": 18.07,
+            "profit": 28.4
+        },
+        {
+            "name": "Share-AGPL",
+            "price": 15.87,
+            "profit": 15.17
+        },
+        {
+            "name": "Share-ZORL",
+            "price": 43.63,
+            "profit": 16.57
+        },
+        {
+            "name": "Share-DDRH",
+            "price": 44.61,
+            "profit": 23.06
+        },
+        {
+            "name": "Share-NUZX",
+            "price": 19.47,
+            "profit": 21.97
+        },
+        {
+            "name": "Share-AMYS",
+            "price": 23.48,
+            "profit": 6.08
+        },
+        {
+            "name": "Share-KQDZ",
+            "price": 16.02,
+            "profit": 38.42
+        },
+        {
+            "name": "Share-LQXO",
+            "price": 35.36,
+            "profit": 13.93
+        },
+        {
+            "name": "Share-TNCT",
+            "price": 37.36,
+            "profit": 18.23
+        },
+        {
+            "name": "Share-KFMR",
+            "price": 11.23,
+            "profit": 28.03
+        },
+        {
+            "name": "Share-HZKM",
+            "price": 0.0,
+            "profit": 37.07
+        },
+        {
+            "name": "Share-NZMA",
+            "price": 36.61,
+            "profit": 22.14
+        },
+        {
+            "name": "Share-MJEL",
+            "price": 17.19,
+            "profit": 15.54
+        },
+        {
+            "name": "Share-RBXY",
+            "price": 37.09,
+            "profit": 31.65
+        },
+        {
+            "name": "Share-OZBN",
+            "price": 5.03,
+            "profit": 28.04
+        },
+        {
+            "name": "Share-VQOW",
+            "price": 20.31,
+            "profit": 37.12
+        },
+        {
+            "name": "Share-SCKQ",
+            "price": 40.89,
+            "profit": 36.29
+        },
+        {
+            "name": "Share-WYIT",
+            "price": 24.23,
+            "profit": 21.43
+        },
+        {
+            "name": "Share-QUQS",
+            "price": 13.43,
+            "profit": 36.39
+        },
+        {
+            "name": "Share-QKFA",
+            "price": 8.37,
+            "profit": 7.7
+        },
+        {
+            "name": "Share-EAIO",
+            "price": 23.78,
+            "profit": 37.86
+        },
+        {
+            "name": "Share-FHZN",
+            "price": 6.1,
+            "profit": 38.09
+        },
+        {
+            "name": "Share-QVQY",
+            "price": 6.53,
+            "profit": 15.23
+        },
+        {
+            "name": "Share-BZBC",
+            "price": 18.85,
+            "profit": 31.39
+        },
+        {
+            "name": "Share-SULM",
+            "price": 29.26,
+            "profit": 16.44
+        },
+        {
+            "name": "Share-LYRY",
+            "price": 21.56,
+            "profit": 16.08
+        },
+        {
+            "name": "Share-VNMM",
+            "price": 0.0,
+            "profit": 16.96
+        },
+        {
+            "name": "Share-YRRO",
+            "price": 12.15,
+            "profit": 16.35
+        },
+        {
+            "name": "Share-USSR",
+            "price": 25.62,
+            "profit": 39.56
+        },
+        {
+            "name": "Share-AXIX",
+            "price": 5.73,
+            "profit": 33.7
+        },
+        {
+            "name": "Share-OBYV",
+            "price": 16.39,
+            "profit": 13.15
+        },
+        {
+            "name": "Share-DAVZ",
+            "price": 21.92,
+            "profit": 25.21
+        },
+        {
+            "name": "Share-MTLR",
+            "price": 16.49,
+            "profit": 39.97
+        },
+        {
+            "name": "Share-BXTP",
+            "price": 4.77,
+            "profit": 33.47
+        },
+        {
+            "name": "Share-AQOR",
+            "price": 25.45,
+            "profit": 35.47
+        },
+        {
+            "name": "Share-MKUX",
+            "price": 48.55,
+            "profit": 4.8
+        },
+        {
+            "name": "Share-SBMG",
+            "price": 43.85,
+            "profit": 24.85
+        },
+        {
+            "name": "Share-XOFE",
+            "price": 33.55,
+            "profit": 11.84
+        },
+        {
+            "name": "Share-KTYA",
+            "price": 39.18,
+            "profit": 25.4
+        },
+        {
+            "name": "Share-LKLG",
+            "price": 0.0,
+            "profit": 36.41
+        },
+        {
+            "name": "Share-AZTU",
+            "price": 5.43,
+            "profit": 22.32
+        },
+        {
+            "name": "Share-DUET",
+            "price": 34.93,
+            "profit": 11.58
+        },
+        {
+            "name": "Share-AQKA",
+            "price": 33.58,
+            "profit": 22.08
+        },
+        {
+            "name": "Share-LPDM",
+            "price": 39.35,
+            "profit": 39.73
+        },
+        {
+            "name": "Share-GUCL",
+            "price": 4.64,
+            "profit": 12.1
+        },
+        {
+            "name": "Share-EBOY",
+            "price": 35.08,
+            "profit": 27.99
+        },
+        {
+            "name": "Share-ZPTK",
+            "price": 11.7,
+            "profit": 17.6
+        },
+        {
+            "name": "Share-ZRZK",
+            "price": 15.04,
+            "profit": 20.65
+        },
+        {
+            "name": "Share-ZRIV",
+            "price": 0.0,
+            "profit": 7.19
+        },
+        {
+            "name": "Share-MVVG",
+            "price": 16.81,
+            "profit": 12.18
+        },
+        {
+            "name": "Share-ROHB",
+            "price": 23.75,
+            "profit": 30.7
+        },
+        {
+            "name": "Share-GNJC",
+            "price": 29.25,
+            "profit": 3.29
+        },
+        {
+            "name": "Share-YVCE",
+            "price": 41.5,
+            "profit": 24.53
+        },
+        {
+            "name": "Share-FMLL",
+            "price": 29.57,
+            "profit": 26.31
+        },
+        {
+            "name": "Share-NUAX",
+            "price": 24.42,
+            "profit": 35.44
+        },
+        {
+            "name": "Share-PJTN",
+            "price": 0.0,
+            "profit": 20.73
+        },
+        {
+            "name": "Share-FQJZ",
+            "price": 16.41,
+            "profit": 20.04
+        },
+        {
+            "name": "Share-HYQP",
+            "price": 7.15,
+            "profit": 25.71
+        },
+        {
+            "name": "Share-NLPL",
+            "price": 8.45,
+            "profit": 22.64
+        },
+        {
+            "name": "Share-IQMC",
+            "price": 0.35,
+            "profit": 2.81
+        },
+        {
+            "name": "Share-SJIV",
+            "price": 26.49,
+            "profit": 33.61
+        },
+        {
+            "name": "Share-OODL",
+            "price": 5.61,
+            "profit": 0.6
+        },
+        {
+            "name": "Share-UBYY",
+            "price": 30.3,
+            "profit": 20.12
+        },
+        {
+            "name": "Share-LPSQ",
+            "price": 29.44,
+            "profit": 36.73
+        },
+        {
+            "name": "Share-RSRH",
+            "price": 26.64,
+            "profit": 31.39
+        },
+        {
+            "name": "Share-WPTD",
+            "price": 31.35,
+            "profit": 10.62
+        },
+        {
+            "name": "Share-QGXD",
+            "price": 38.05,
+            "profit": 21.13
+        },
+        {
+            "name": "Share-BVQQ",
+            "price": 9.87,
+            "profit": 20.53
+        },
+        {
+            "name": "Share-PNBE",
+            "price": 27.3,
+            "profit": 10.85
+        },
+        {
+            "name": "Share-NYRP",
+            "price": 23.91,
+            "profit": 14.05
+        },
+        {
+            "name": "Share-GSGQ",
+            "price": 3.57,
+            "profit": 13.5
+        },
+        {
+            "name": "Share-QFOM",
+            "price": 20.24,
+            "profit": 17.61
+        },
+        {
+            "name": "Share-DWPD",
+            "price": 16.13,
+            "profit": 29.87
+        },
+        {
+            "name": "Share-IBSP",
+            "price": 32.78,
+            "profit": 29.57
+        },
+        {
+            "name": "Share-EJXB",
+            "price": 9.32,
+            "profit": 2.01
+        },
+        {
+            "name": "Share-UEZB",
+            "price": 24.87,
+            "profit": 39.43
+        },
+        {
+            "name": "Share-QXLZ",
+            "price": 38.15,
+            "profit": 23.07
+        },
+        {
+            "name": "Share-NWDK",
+            "price": 33.94,
+            "profit": 5.75
+        },
+        {
+            "name": "Share-XPQB",
+            "price": 18.49,
+            "profit": 26.41
+        },
+        {
+            "name": "Share-RNEE",
+            "price": 15.93,
+            "profit": 7.05
+        },
+        {
+            "name": "Share-BMWW",
+            "price": 3.65,
+            "profit": 31.45
+        },
+        {
+            "name": "Share-DLDY",
+            "price": 2.62,
+            "profit": 4.29
+        },
+        {
+            "name": "Share-EKHC",
+            "price": 20.22,
+            "profit": 23.58
+        },
+        {
+            "name": "Share-PSEN",
+            "price": 10.73,
+            "profit": 34.65
+        },
+        {
+            "name": "Share-BXWL",
+            "price": 11.08,
+            "profit": 28.8
+        },
+        {
+            "name": "Share-JEHD",
+            "price": 20.22,
+            "profit": 16.62
+        },
+        {
+            "name": "Share-HAKK",
+            "price": 14.67,
+            "profit": 1.78
+        },
+        {
+            "name": "Share-CQXK",
+            "price": 42.48,
+            "profit": 19.54
+        },
+        {
+            "name": "Share-NFHZ",
+            "price": 28.09,
+            "profit": 11.42
+        },
+        {
+            "name": "Share-VEOO",
+            "price": 30.85,
+            "profit": 23.97
+        },
+        {
+            "name": "Share-YQTP",
+            "price": 27.63,
+            "profit": 21.53
+        },
+        {
+            "name": "Share-APNK",
+            "price": 33.9,
+            "profit": 26.71
+        },
+        {
+            "name": "Share-FCIM",
+            "price": 25.84,
+            "profit": 32.99
+        },
+        {
+            "name": "Share-CWAN",
+            "price": 21.78,
+            "profit": 5.52
+        },
+        {
+            "name": "Share-ZGNB",
+            "price": 17.54,
+            "profit": 37.44
+        },
+        {
+            "name": "Share-WDYF",
+            "price": 33.55,
+            "profit": 27.54
+        },
+        {
+            "name": "Share-BRCC",
+            "price": 48.93,
+            "profit": 33.39
+        },
+        {
+            "name": "Share-OQKF",
+            "price": 20.36,
+            "profit": 25.37
+        },
+        {
+            "name": "Share-NOPE",
+            "price": 33.63,
+            "profit": 1.17
+        },
+        {
+            "name": "Share-ASGY",
+            "price": 20.47,
+            "profit": 22.18
+        },
+        {
+            "name": "Share-HBSR",
+            "price": 25.7,
+            "profit": 16.14
+        },
+        {
+            "name": "Share-CZIZ",
+            "price": 39.47,
+            "profit": 32.75
+        },
+        {
+            "name": "Share-MLUC",
+            "price": 32.69,
+            "profit": 28.29
+        },
+        {
+            "name": "Share-SGHI",
+            "price": 30.02,
+            "profit": 2.93
+        },
+        {
+            "name": "Share-CBUV",
+            "price": 19.3,
+            "profit": 21.75
+        },
+        {
+            "name": "Share-MOVJ",
+            "price": 13.76,
+            "profit": 23.48
+        },
+        {
+            "name": "Share-HAJM",
+            "price": 6.01,
+            "profit": 8.56
+        },
+        {
+            "name": "Share-IQQO",
+            "price": 0.0,
+            "profit": 7.84
+        },
+        {
+            "name": "Share-OLMP",
+            "price": 5.32,
+            "profit": 35.86
+        },
+        {
+            "name": "Share-AUGU",
+            "price": 20.67,
+            "profit": 23.88
+        },
+        {
+            "name": "Share-DBFE",
+            "price": 36.63,
+            "profit": 33.34
+        },
+        {
+            "name": "Share-JEZT",
+            "price": 24.55,
+            "profit": 7.96
+        },
+        {
+            "name": "Share-GXSJ",
+            "price": 19.93,
+            "profit": 12.79
+        },
+        {
+            "name": "Share-XREJ",
+            "price": 21.24,
+            "profit": 4.51
+        },
+        {
+            "name": "Share-SALE",
+            "price": 27.25,
+            "profit": 33.45
+        },
+        {
+            "name": "Share-YSKI",
+            "price": 0.0,
+            "profit": 24.41
+        },
+        {
+            "name": "Share-MYXT",
+            "price": 23.78,
+            "profit": 30.09
+        },
+        {
+            "name": "Share-WEOQ",
+            "price": 4.82,
+            "profit": 13.53
+        },
+        {
+            "name": "Share-NHWA",
+            "price": 29.18,
+            "profit": 39.77
+        },
+        {
+            "name": "Share-CYYC",
+            "price": 0.42,
+            "profit": 5.88
+        },
+        {
+            "name": "Share-XINI",
+            "price": 13.23,
+            "profit": 26.15
+        },
+        {
+            "name": "Share-JHWR",
+            "price": 15.51,
+            "profit": 4.75
+        },
+        {
+            "name": "Share-HSOR",
+            "price": 17.87,
+            "profit": 17.02
+        },
+        {
+            "name": "Share-DXOW",
+            "price": 24.99,
+            "profit": 38.75
+        },
+        {
+            "name": "Share-UMIB",
+            "price": 44.93,
+            "profit": 35.08
+        },
+        {
+            "name": "Share-GYWT",
+            "price": 38.32,
+            "profit": 3.9
+        },
+        {
+            "name": "Share-RQJV",
+            "price": 20.73,
+            "profit": 31.27
+        },
+        {
+            "name": "Share-MHUT",
+            "price": 30.36,
+            "profit": 21.24
+        },
+        {
+            "name": "Share-FNZM",
+            "price": 22.38,
+            "profit": 34.75
+        },
+        {
+            "name": "Share-KPYM",
+            "price": 19.12,
+            "profit": 20.56
+        },
+        {
+            "name": "Share-IIUJ",
+            "price": 41.83,
+            "profit": 7.17
+        },
+        {
+            "name": "Share-DDUF",
+            "price": 36.49,
+            "profit": 11.67
+        },
+        {
+            "name": "Share-VGUF",
+            "price": 28.44,
+            "profit": 12.75
+        },
+        {
+            "name": "Share-THNO",
+            "price": 31.4,
+            "profit": 17.82
+        },
+        {
+            "name": "Share-YYEN",
+            "price": 25.73,
+            "profit": 4.43
+        },
+        {
+            "name": "Share-RZCT",
+            "price": 18.58,
+            "profit": 23.89
+        },
+        {
+            "name": "Share-QRVU",
+            "price": 16.96,
+            "profit": 35.36
+        },
+        {
+            "name": "Share-VFGQ",
+            "price": 16.36,
+            "profit": 23.61
+        },
+        {
+            "name": "Share-URAA",
+            "price": 30.91,
+            "profit": 25.18
+        },
+        {
+            "name": "Share-EBAM",
+            "price": 29.48,
+            "profit": 4.87
+        },
+        {
+            "name": "Share-EAAY",
+            "price": 23.25,
+            "profit": 32.93
+        },
+        {
+            "name": "Share-XFNL",
+            "price": 44.05,
+            "profit": 23.97
+        },
+        {
+            "name": "Share-UTUI",
+            "price": 22.78,
+            "profit": 31.75
+        },
+        {
+            "name": "Share-AIRL",
+            "price": 7.19,
+            "profit": 31.28
+        },
+        {
+            "name": "Share-AYBY",
+            "price": 40.52,
+            "profit": 10.72
+        },
+        {
+            "name": "Share-PWDG",
+            "price": 39.72,
+            "profit": 12.54
+        },
+        {
+            "name": "Share-UGTV",
+            "price": 46.13,
+            "profit": 28.3
+        },
+        {
+            "name": "Share-GHIZ",
+            "price": 28.0,
+            "profit": 39.89
+        },
+        {
+            "name": "Share-UBEA",
+            "price": 46.85,
+            "profit": 4.92
+        },
+        {
+            "name": "Share-VNTG",
+            "price": 30.54,
+            "profit": 25.47
+        },
+        {
+            "name": "Share-NDSG",
+            "price": 24.04,
+            "profit": 10.44
+        },
+        {
+            "name": "Share-OYDA",
+            "price": 20.5,
+            "profit": 10.85
+        },
+        {
+            "name": "Share-KXOH",
+            "price": 1.5,
+            "profit": 32.19
+        },
+        {
+            "name": "Share-FAXV",
+            "price": 29.03,
+            "profit": 32.58
+        },
+        {
+            "name": "Share-QZWX",
+            "price": 20.16,
+            "profit": 24.26
+        },
+        {
+            "name": "Share-ABJM",
+            "price": 21.17,
+            "profit": 38.29
+        },
+        {
+            "name": "Share-OQSQ",
+            "price": 5.07,
+            "profit": 26.84
+        },
+        {
+            "name": "Share-APJH",
+            "price": 26.51,
+            "profit": 38.5
+        },
+        {
+            "name": "Share-HUNV",
+            "price": 0.0,
+            "profit": 31.98
+        },
+        {
+            "name": "Share-EJFE",
+            "price": 19.11,
+            "profit": 18.07
+        },
+        {
+            "name": "Share-BGDY",
+            "price": 2.46,
+            "profit": 16.15
+        },
+        {
+            "name": "Share-PJBK",
+            "price": 45.42,
+            "profit": 28.75
+        },
+        {
+            "name": "Share-PAWY",
+            "price": 21.86,
+            "profit": 32.65
+        },
+        {
+            "name": "Share-KEYI",
+            "price": 40.4,
+            "profit": 31.64
+        },
+        {
+            "name": "Share-JUBL",
+            "price": 29.67,
+            "profit": 2.33
+        },
+        {
+            "name": "Share-BECH",
+            "price": 35.91,
+            "profit": 3.26
+        },
+        {
+            "name": "Share-WALV",
+            "price": 29.53,
+            "profit": 27.89
+        },
+        {
+            "name": "Share-DRAB",
+            "price": 0.0,
+            "profit": 15.1
+        },
+        {
+            "name": "Share-KMTG",
+            "price": 23.21,
+            "profit": 39.97
+        },
+        {
+            "name": "Share-MKXO",
+            "price": 26.44,
+            "profit": 19.97
+        },
+        {
+            "name": "Share-QFPY",
+            "price": 45.3,
+            "profit": 7.61
+        },
+        {
+            "name": "Share-WZIF",
+            "price": 20.04,
+            "profit": 5.6
+        },
+        {
+            "name": "Share-VSIP",
+            "price": 42.36,
+            "profit": 13.16
+        },
+        {
+            "name": "Share-IFTU",
+            "price": 37.65,
+            "profit": 13.98
+        },
+        {
+            "name": "Share-WMHE",
+            "price": 25.47,
+            "profit": 18.35
+        },
+        {
+            "name": "Share-NMDR",
+            "price": 22.27,
+            "profit": 32.97
+        },
+        {
+            "name": "Share-MXAF",
+            "price": 21.23,
+            "profit": 11.2
+        },
+        {
+            "name": "Share-WVVQ",
+            "price": 11.95,
+            "profit": 18.45
+        },
+        {
+            "name": "Share-XFUI",
+            "price": 20.81,
+            "profit": 32.5
+        },
+        {
+            "name": "Share-KRLT",
+            "price": 29.73,
+            "profit": 20.48
+        },
+        {
+            "name": "Share-BCJD",
+            "price": 13.65,
+            "profit": 17.02
+        },
+        {
+            "name": "Share-GJTI",
+            "price": 23.11,
+            "profit": 10.72
+        },
+        {
+            "name": "Share-BKDN",
+            "price": 34.66,
+            "profit": 18.97
+        },
+        {
+            "name": "Share-ZSZF",
+            "price": 26.57,
+            "profit": 19.68
+        },
+        {
+            "name": "Share-LDCO",
+            "price": 28.36,
+            "profit": 13.65
+        },
+        {
+            "name": "Share-DBUJ",
+            "price": 0.07,
+            "profit": 10.73
+        },
+        {
+            "name": "Share-VBIE",
+            "price": 46.52,
+            "profit": 1.98
+        },
+        {
+            "name": "Share-CKEE",
+            "price": 17.78,
+            "profit": 33.02
+        },
+        {
+            "name": "Share-ZECG",
+            "price": 43.32,
+            "profit": 30.76
+        },
+        {
+            "name": "Share-PWWS",
+            "price": 49.36,
+            "profit": 14.37
+        },
+        {
+            "name": "Share-LOBE",
+            "price": 39.3,
+            "profit": 31.97
+        },
+        {
+            "name": "Share-HFXF",
+            "price": 0.0,
+            "profit": 9.56
+        },
+        {
+            "name": "Share-NZHD",
+            "price": 15.79,
+            "profit": 8.53
+        },
+        {
+            "name": "Share-LDVW",
+            "price": 26.9,
+            "profit": 37.09
+        },
+        {
+            "name": "Share-PNHT",
+            "price": 8.01,
+            "profit": 20.1
+        },
+        {
+            "name": "Share-YNRH",
+            "price": 15.48,
+            "profit": 20.67
+        },
+        {
+            "name": "Share-CAEQ",
+            "price": 36.56,
+            "profit": 39.17
+        },
+        {
+            "name": "Share-VRCA",
+            "price": 37.94,
+            "profit": 15.52
+        },
+        {
+            "name": "Share-WSYK",
+            "price": 24.52,
+            "profit": 25.99
+        },
+        {
+            "name": "Share-XKDC",
+            "price": 27.34,
+            "profit": 3.05
+        },
+        {
+            "name": "Share-XUPB",
+            "price": 16.58,
+            "profit": 21.26
+        },
+        {
+            "name": "Share-IZTA",
+            "price": 16.98,
+            "profit": 12.84
+        },
+        {
+            "name": "Share-NFKM",
+            "price": 42.83,
+            "profit": 16.48
+        },
+        {
+            "name": "Share-ONRM",
+            "price": 7.48,
+            "profit": 17.87
+        },
+        {
+            "name": "Share-TSLL",
+            "price": 31.42,
+            "profit": 7.71
+        },
+        {
+            "name": "Share-HXDE",
+            "price": 33.15,
+            "profit": 22.02
+        },
+        {
+            "name": "Share-CUSU",
+            "price": 2.66,
+            "profit": 32.49
+        },
+        {
+            "name": "Share-ZYBC",
+            "price": 39.09,
+            "profit": 28.26
+        },
+        {
+            "name": "Share-KJRG",
+            "price": 30.57,
+            "profit": 31.64
+        },
+        {
+            "name": "Share-RYQW",
+            "price": 0.0,
+            "profit": 1.88
+        },
+        {
+            "name": "Share-JPLO",
+            "price": 9.81,
+            "profit": 30.98
+        },
+        {
+            "name": "Share-PRLI",
+            "price": 21.38,
+            "profit": 35.35
+        },
+        {
+            "name": "Share-PCSR",
+            "price": 28.48,
+            "profit": 0.93
+        },
+        {
+            "name": "Share-ISXU",
+            "price": 23.73,
+            "profit": 15.06
+        },
+        {
+            "name": "Share-IUVO",
+            "price": 8.47,
+            "profit": 13.86
+        }
+    ]
+}
