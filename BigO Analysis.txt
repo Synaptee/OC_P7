@@ -1,0 +1,27 @@
+BRUTEFORCE.PY
+
+L'algorithme génère toutes les combinaisons possibles d'actions à partir d'une liste donnée. Ensuite, il vérifie chaque combinaison pour s'assurer que le coût total des actions sélectionnées est inférieur ou égal à un budget maximum spécifié. Enfin, il calcule le bénéfice total pour chaque combinaison valide et trouve le portefeuille avec le bénéfice le plus élevé.
+
+Analysons maintenant la complexité de cet algorithme :
+
+Lecture des données d'actions : Cette opération a une complexité de temps négligeable car elle dépend de la taille des données d'actions et n'est pas exécutée à chaque itération. Supposons qu'elle ait une complexité de O(1).
+Génération de toutes les combinaisons possibles : L'algorithme utilise la fonction generate_combinations pour générer toutes les combinaisons de r actions parmi la liste d'actions. Cette fonction utilise une approche itérative qui génère les combinaisons en utilisant des indices. La complexité de cette étape dépend de la taille de la liste d'actions et du nombre r. Dans le pire des cas, lorsque r est égal à la taille de la liste d'actions, la complexité est de O(n!), où n est le nombre d'actions. Cependant, dans la plupart des cas, le nombre de combinaisons est inférieur à n! car r est généralement plus petit que n. Pour simplifier, nous pouvons considérer la complexité de cette étape comme étant de l'ordre de O(n!).
+Vérification des contraintes : L'algorithme parcourt chaque combinaison valide et vérifie si le coût total des actions sélectionnées est inférieur ou égal au budget maximum. Cette étape a une complexité linéaire, car elle itère sur chaque action dans le portefeuille. Dans le pire des cas, lorsque le budget maximum est suffisamment élevé et presque toutes les actions sont incluses, la complexité est de O(n).
+Calcul du bénéfice total : L'algorithme calcule le bénéfice total pour chaque combinaison valide en effectuant une boucle sur chaque action dans le portefeuille. Cette étape a une complexité linéaire, car elle itère sur chaque action dans le portefeuille. Dans le pire des cas, lorsque presque toutes les actions sont incluses, la complexité est de O(n).
+Mise à jour du meilleur résultat : L'algorithme met à jour le meilleur portefeuille et le meilleur bénéfice chaque fois qu'il trouve une combinaison avec un bénéfice plus élevé. Cette étape a une complexité constante, car elle implique simplement la comparaison et la mise à jour des variables.
+
+En résumé, la complexité totale de cet algorithme est dominée par la génération de toutes les combinaisons possibles, ce qui donne une complexité approximative de O(2^n).
+
+
+OPTIMIZED.PY
+
+Lecture des données d'actions : Cette opération a une complexité de temps négligeable car elle dépend de la taille des données d'actions et n'est pas exécutée à chaque itération. Supposons qu'elle ait une complexité de O(1).
+Filtrage des actions : L'algorithme parcourt chaque action pour vérifier si son prix est supérieur à zéro. Cela a une complexité linéaire, car il itère sur chaque action. Supposons que le nombre d'actions soit n, alors cette étape a une complexité de O(n).
+Calcul du ratio profit/coût : L'algorithme calcule le ratio profit/coût pour chaque action. Cela a une complexité linéaire, car il itère sur chaque action. Supposons que le nombre d'actions soit n, alors cette étape a une complexité de O(n).
+Tri des actions : L'algorithme trie les actions en fonction du ratio profit/coût dans l'ordre décroissant. Le tri de la liste a une complexité de O(n log n) dans le pire des cas, où n est le nombre d'actions.
+Sélection des actions gloutonnes : L'algorithme parcourt les actions triées dans l'ordre et les sélectionne tant que le prix de l'action est inférieur ou égal au budget restant. Cette étape a une complexité linéaire, car il itère sur chaque action triée. Supposons que le nombre d'actions soit n, alors cette étape a une complexité de O(n).
+En résumé, la complexité totale de cet algorithme est dominée par le tri des actions, ce qui donne une complexité approximative de O(n log n). Les autres étapes, comme le filtrage des actions, le calcul du ratio profit/coût et la sélection gloutonne, ont des complexités linéaires qui sont moins significatives par rapport au tri.
+
+Il convient de noter que la complexité temporelle mentionnée ci-dessus est une approximation et peut varier en fonction de divers facteurs, tels que l'implémentation spécifique de la fonction de tri utilisée et les caractéristiques des données d'entrée.
+
+Faire la distinction du BigO spacial et temporel !!
